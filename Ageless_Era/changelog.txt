@@ -6,7 +6,7 @@ Version 4.11.1:
 * Bug Fixes
     * Fixed Khthon Heroes recruitment
     * Movetypes for Whites ships
-    * Fixed Rune Aura, Fleshpool Sacrifice, Brungar Coastal Reef, Holy resists, Statue line petrify, Lightshifter, Added missing unit Bone Snapper
+    * Fixed Decay
 * Other
     * Updated EoMa part to be more like is in EoMa (This didn't get totally included in 4.11)
     * Update to wesnoth 1.11
