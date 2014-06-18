@@ -1,0 +1,1203 @@
+Level 1		   Level 2	    Level 3		Level 4
+
+Enchanter ------> Forge --------> Fabricator
+
+CursedSword ----> Cursedhand -> DevilBlade
+		>
+		> Sacrificier --> Sellsoul
+				>
+				> Powermad --------> Apocalyptic
+
+Floating Sword  > Magic Sword --> Shadowblade
+		>		>	
+		>		> Enchanted Sword -> Excalibur
+		>
+		> Possessed Sword
+
+Armorer --------> Arsenal ------> Stockpiler
+
+Rune Apprentice > Rune Interpreter (A) -> Rune Splicer (A)
+		>			>
+		>			> Rune Improver	(B)	
+		>			>			
+		> Rune Improver	(A)	-> Rune Mage -----------> Rune Master 
+		>			>			
+		> Rune Interpreter (B) -> Rune Splicer (B)	
+					>
+					> Rune Improver (C)
+
+Reductor -------> Featherlite
+		>
+		> Titan
+
+Hotshot --------> Clearbow ------> Crystalbow
+		>
+		> Blazier -------> Incinerator
+
+
+Name: Enchanter
+Advance From: null
+Advance To: Forge
+Race: Human
+Abilities:
+HP: 35
+XP:
+Moves: 5
+COst:
+Alignment: Neutral
+Description:
+Attacks:
+Hammer melee (impact) 10-2
+Resists:
+arcane-20%
+blade-
+cold-
+fire-
+impact-
+pierce-
+Terrain:
+Snow-3 30%
+Castle-1 60%
+Sand-3 30%
+Village-1 60%
+Grassland-1 40%
+Forest-2 50%
+Hills-2 50%
+Mountains-3 60%
+Chasm-100
+Swamp-3 30%
+Mushroom-3 50%
+Cave-2 40%
+Deep Water-100 20%
+Shallow Water-3 30%
+Cave Wall-100 40%
+
+Name: Forge
+Advance From: Enchanter
+Advance To: Fabricator
+Race: Human
+Abilities: Protection
+HP: 52
+XP:
+Moves: 5
+COst:
+Alignment: neutral
+Description:
+Attacks:
+hammer melee (impact) 16-2
+Resists:
+arcane-20%
+blade-10%
+cold-
+fire-
+impact-10%
+pierce-10%
+Terrain:
+Snow-3 30%
+Castle-1 60%
+Sand-3 30%
+Village-1 60%
+Grassland-1 40%
+Forest-2 50%
+Hills-2 50%
+Mountains-3 60%
+Chasm-100
+Swamp-3 30%
+Mushroom-3 50%
+Cave-2 40%
+Deep Water-100 20%
+Shallow Water-3 30%
+Cave Wall-100 40%
+
+Name: Fabricator
+Advance From: Forge
+Advance To: null
+Race: Human
+Abilities: Protection
+HP:68
+XP:
+Moves: 5
+COst:
+Alignment: neutral
+Description:
+Attacks:
+hammer melee (impact) 22-2
+Resists:
+arcane-20%
+blade-20%
+cold-
+fire-
+impact-20%
+pierce-20%
+Terrain:
+Snow-3 30%
+Castle-1 60%
+Sand-3 30%
+Village-1 60%
+Grassland-1 40%
+Forest-2 50%
+Hills-2 50%
+Mountains-3 60%
+Chasm-100
+Swamp-3 30%
+Mushroom-3 50%
+Cave-2 40%
+Deep Water-100 20%
+Shallow Water-3 30%
+Cave Wall-100 40%
+
+Name: CursedSword
+Advance From: null
+Advance To: Cursedhand, Sacrificier
+Race: Human
+Abilities:
+HP: 38
+XP:
+Moves: 4
+COst:
+Alignment: chaotic
+Description:
+Attacks:
+Cursed Blade melee (Blade) 15-2 cursed
+Resists:
+arcane-0%
+blade-0%
+cold-0%
+fire-0%
+impact-0%
+pierce-0%
+Terrain:
+Snow-3 30%
+Castle-1 60%
+Sand-3 30%
+Village-1 60%
+Grassland-1 40%
+Forest-2 50%
+Hills-2 50%
+Mountains-3 60%
+Chasm-100
+Swamp-3 30%
+Mushroom-3 50%
+Cave-2 40%
+Deep Water-100 20%
+Shallow Water-3 30%
+Cave Wall-100 40%
+
+Name: Cursedhand
+Advance From: Cursedblade
+Advance To: Devilhand
+Race: Human
+Abilities:
+HP: 56
+XP:
+Moves: 4
+COst:
+Alignment: chaotic
+Description:
+Attacks:
+Cursedsword melee (blade) 20-2 cursed
+Blackhand melee (cold) 10-2 drain
+Resists:
+arcane- -20%
+blade- 10%
+cold- 30%
+fire- -10%
+impact- 0%
+pierce- 0%
+Terrain:
+Snow-3 30%
+Castle-1 60%
+Sand-3 30%
+Village-1 60%
+Grassland-1 40%
+Forest-2 50%
+Hills-2 50%
+Mountains-3 60%
+Chasm-100
+Swamp-3 30%
+Mushroom-3 50%
+Cave-2 40%
+Deep Water-100 20%
+Shallow Water-3 30%
+Cave Wall-100 40%
+
+Name: Devilhand
+Advance From: Cursedhand
+Advance To: null
+Race: Human
+Abilities:
+HP: 68
+XP: 
+Moves: 5
+COst:
+Alignment: chaotic
+Description:
+Attacks:
+Cursedsword melee (blade) 20-3 cursed
+Blackhand melee (cold) 12-3 drain
+Terrain:
+Snow-3 30%
+Castle-1 60%
+Sand-3 30%
+Village-1 60%
+Grassland-1 40%
+Forest-2 50%
+Hills-2 50%
+Mountains-3 60%
+Chasm-100
+Swamp-3 30%
+Mushroom-3 50%
+Cave-2 40%
+Deep Water-100 20%
+Shallow Water-3 30%
+Cave Wall-100 40%
+
+Name: Sacrificier
+Advance From: Cursedsword
+Advance To: Sellsoul, Powermad
+Race: Human
+Abilities:
+HP: 52
+XP:
+Moves: 5
+COst:
+Alignment: chaotic
+Description:
+Attacks:
+Cursedsword melee (blade) 15-3 cursed
+Resists:
+arcane- 0%
+blade- 0%
+cold- 0%
+fire- 0%
+impact- 0%
+pierce- 0%
+Terrain:
+Snow-3 30%
+Castle-1 60%
+Sand-3 30%
+Village-1 60%
+Grassland-1 40%
+Forest-2 50%
+Hills-2 50%
+Mountains-3 60%
+Chasm-100
+Swamp-3 30%
+Mushroom-3 50%
+Cave-2 40%
+Deep Water-100 20%
+Shallow Water-3 30%
+Cave Wall-100 40%
+
+Name: Sellsoul
+Advance From: Sacrificier
+Advance To: null
+Race: Human
+Abilities:
+HP: 65
+XP:
+Moves: 4
+COst:
+Alignment: chaotic
+Description:
+Attacks:
+Cursedblade 15-3 cursed berserk
+Resists:
+arcane-0%
+blade-0%
+cold-0%
+fire-0%
+impact-0%
+pierce-0%
+Terrain:
+Snow-3 20%
+Castle-1 50%
+Sand-3 20%
+Village-1 50%
+Grassland-1 30%
+Forest-2 40%
+Hills-2 40%
+Mountains-3 50%
+Chasm-100
+Swamp-3 20%
+Mushroom-3 40%
+Cave-2 30%
+Deep Water-100 10%
+Shallow Water-3 20%
+Cave Wall-100 30%
+
+Name: Powermad
+Advance From: Sacrificier
+Advance To: Apocalyptic
+Race: Human
+Abilities:
+HP: 60
+XP:
+Moves: 5
+COst:
+Alignment:
+Description:
+Attacks:
+cursedsword melee (blade) 22-3
+Resists:
+arcane- 0%
+blade- 0%
+cold- 0%
+fire- 0%
+impact- 0%
+pierce- 0%
+Terrain:
+Snow-3 30%
+Castle-1 60%
+Sand-3 30%
+Village-1 60%
+Grassland-1 40%
+Forest-2 50%
+Hills-2 50%
+Mountains-3 60%
+Chasm-100
+Swamp-3 30%
+Mushroom-3 50%
+Cave-2 40%
+Deep Water-100 20%
+Shallow Water-3 30%
+Cave Wall-100 40%
+
+Name: Apocalyptic
+Advance From: Powermad
+Advance To: null
+Race: Human
+Abilities:
+HP: 90
+XP:
+Moves: 5
+COst:
+Alignment: chaotic
+Description:
+Attacks:
+Armeggadonblade melee (blade) 20-4
+Sonicboom ranged (blade) 10-2
+Resists:
+arcane- 0%
+blade- 0%
+cold- 0%
+fire- 0%
+impact- 0%
+pierce- 0%
+Terrain:
+Snow-3 30%
+Castle-1 60%
+Sand-3 30%
+Village-1 60%
+Grassland-1 40%
+Forest-2 50%
+Hills-2 50%
+Mountains-3 60%
+Chasm-100
+Swamp-3 30%
+Mushroom-3 50%
+Cave-2 40%
+Deep Water-100 20%
+Shallow Water-3 30%
+Cave Wall-100 40%
+
+Name:Floating Sword
+Advance From: null
+Advance To: Possessed Sword, Magic Sword, Shifting Sword
+Race: Mechanical
+Abilities:
+HP: 20
+XP:
+Moves: 8
+COst:
+Alignment: neutral
+Description:
+Attacks:
+Sword melee (blade) 6-4
+Resists:
+arcane- -20%
+blade- 70%
+cold- 30%
+fire- 0%
+impact- 70%
+pierce- 70%
+Terrain:
+Snow- 1 50%
+Castle- 1 50%
+Sand- 1 50%
+Village- 1 50%
+Grassland- 1 50%
+Forest- 1 50%
+Hills- 1 50%
+Mountains- 1 50%
+Chasm- 1 50%
+Swamp- 1 50%
+Mushroom- 1 50%
+Cave- 1 50%
+Deep Water- 1 50%
+Shallow Water- 1 50%
+Cave Wall- 100 50%
+
+Name: Possessed Sword
+Advance From: Floating Sword
+Advance To: null
+Race: Mechanical
+Abilities:
+HP: 34
+XP:
+Moves: 8
+COst:
+Alignment: neutral
+Description:
+Attacks:
+Sword melee (blade) 8-4
+Sword ranged (blade) 12-1 charge
+Resists:
+arcane- -20%
+blade- 70%
+cold- 30%
+fire- 0%
+impact- 50%
+pierce- 50%
+Terrain:
+Snow- 1 50%
+Castle- 1 50%
+Sand- 1 50%
+Village- 1 50%
+Grassland- 1 50%
+Forest- 1 50%
+Hills- 1 50%
+Mountains- 1 50%
+Chasm- 1 50%
+Swamp- 1 50%
+Mushroom- 1 50%
+Cave- 1 50%
+Deep Water- 1 50%
+Shallow Water- 1 50%
+Cave Wall- 100 50%
+
+Name: Shifting Sword
+Advance From: Floating Sword
+Advance To: null
+Race: Mechanical
+Abilities: regenerates
+HP: 30
+XP:
+Moves: 8
+COst:
+Alignment: neutral
+Description:
+Attacks:
+Sword melee (blade) 7-4
+Spear melee (pierce) 13-2
+mace melee (impact) 9-3
+Resists:
+arcane- -20%
+blade- 70%
+cold- 30%
+fire- 0%
+impact- 50%
+pierce- 50%
+Terrain:
+Snow- 1 50%
+Castle- 1 50%
+Sand- 1 50%
+Village- 1 50%
+Grassland- 1 50%
+Forest- 1 50%
+Hills- 1 50%
+Mountains- 1 50%
+Chasm- 1 50%
+Swamp- 1 50%
+Mushroom- 1 50%
+Cave- 1 50%
+Deep Water- 1 50%
+Shallow Water- 1 50%
+Cave Wall- 100 50%
+
+Name: Magic Sword
+Advance From: Floating Sword
+Advance To: Shadowblade, Enchanted Sword
+Race: Mechanical
+Abilities:
+HP: 30
+XP:
+Moves: 8
+COst:
+Alignment: neutral
+Description:
+Attacks:
+Sword melee (blade) 8-4
+Resists:
+arcane- -20%
+blade- 70%
+cold- 30%
+fire- 0%
+impact- 50%
+pierce- 50%
+Terrain:
+Snow- 1 50%
+Castle- 1 50%
+Sand- 1 50%
+Village- 1 50%
+Grassland- 1 50%
+Forest- 1 50%
+Hills- 1 50%
+Mountains- 1 50%
+Chasm- 1 50%
+Swamp- 1 50%
+Mushroom- 1 50%
+Cave- 1 50%
+Deep Water- 1 50%
+Shallow Water- 1 50%
+Cave Wall- 100 50%
+
+Name: Shadowblade
+Advance From: Magic Sword
+Advance To: null
+Race: Mechanical
+Abilities:
+HP: 38
+XP:
+Moves: 8
+COst:
+Alignment: chaotic
+Description:
+Attacks:
+Shadowblade melee (arcane) 8-4 (drain)
+Resists:
+arcane- -40%
+blade- 70%
+cold- 50%
+fire- 0%
+impact- 50%
+pierce- 50%
+Terrain:
+Snow- 1 50%
+Castle- 1 50%
+Sand- 1 50%
+Village- 1 50%
+Grassland- 1 50%
+Forest- 1 50%
+Hills- 1 50%
+Mountains- 1 50%
+Chasm- 1 50%
+Swamp- 1 50%
+Mushroom- 1 50%
+Cave- 1 50%
+Deep Water- 1 50%
+Shallow Water- 1 50%
+Cave Wall- 100 50%
+
+Name: Enchanted Sword
+Advance From: Magic Sword
+Advance To: Excalibur
+Race: Mechanical
+Abilities:
+HP: 40
+XP:
+Moves: 8
+COst:
+Alignment: neutral
+Description:
+Attacks:
+Sword melee (blade) 10-4 marksman
+Resists:
+arcane- -20%
+blade- 70%
+cold- 30%
+fire- 0%
+impact- 50%
+pierce- 50%
+Terrain:
+Snow- 1 50%
+Castle- 1 50%
+Sand- 1 50%
+Village- 1 50%
+Grassland- 1 50%
+Forest- 1 50%
+Hills- 1 50%
+Mountains- 1 50%
+Chasm- 1 50%
+Swamp- 1 50%
+Mushroom- 1 50%
+Cave- 1 50%
+Deep Water- 1 50%
+Shallow Water- 1 50%
+Cave Wall- 100 50%
+
+Name: Excalibur
+Advance From: Magic Sword
+Advance To: null
+Race: Mechanical
+Abilities:
+HP:55
+XP:
+Moves: 8
+COst:
+Alignment: neutral
+Description:
+Attacks:
+Excalibur melee (blade) 10-5 magical
+Resists:
+arcane- 0%
+blade- 70%
+cold- 30%
+fire- 0%
+impact- 50%
+pierce- 50%
+Terrain:
+Snow- 1 50%
+Castle- 1 50%
+Sand- 1 50%
+Village- 1 50%
+Grassland- 1 50%
+Forest- 1 50%
+Hills- 1 50%
+Mountains- 1 50%
+Chasm- 1 50%
+Swamp- 1 50%
+Mushroom- 1 50%
+Cave- 1 50%
+Deep Water- 1 50%
+Shallow Water- 1 50%
+Cave Wall- 100 50%
+
+Name: Armorer
+Advance From: null
+Advance To: Arsenal
+Race: Human
+Abilities:
+HP:35
+XP:
+Moves: 4
+COst:
+Alignment: neutral 
+Description:
+Attacks:
+Mace melee (impact) 10-2
+Spear melee (pierce) 7-3
+Resists:
+arcane-20%
+blade-30%
+cold-0%
+fire- -10%
+impact- 10%
+pierce- 30%
+Terrain:
+Snow-3 20%
+Castle-1 50%
+Sand-3 20%
+Village-1 50%
+Grassland-1 30%
+Forest-2 40%
+Hills-2 40%
+Mountains-3 50%
+Chasm-100
+Swamp-3 20%
+Mushroom-3 40%
+Cave-2 30%
+Deep Water-100 10%
+Shallow Water-3 20%
+Cave Wall-100 30%
+
+Name: Arsenal
+Advance From: Armorer
+Advance To: Stockpiler
+Race: Human
+Abilities:
+HP:53
+XP:
+Moves: 4
+COst:
+Alignment: neutral
+Description:
+Attacks:
+Mace melee (impact) 17-2
+Spear melee (pierce) 12-3
+Sword melee (blade) 10-4
+Resists:
+arcane- 20%
+blade- 30%
+cold- 0%
+fire- -10%
+impact- 10%
+pierce- 30%
+Terrain:
+Snow-3 20%
+Castle-1 50%
+Sand-3 20%
+Village-1 50%
+Grassland-1 30%
+Forest-2 40%
+Hills-2 40%
+Mountains-3 50%
+Chasm-100
+Swamp-3 20%
+Mushroom-3 40%
+Cave-2 30%
+Deep Water-100 10%
+Shallow Water-3 20%
+Cave Wall-100 30%
+
+Name: Stockpiler
+Advance From: Arsenal
+Advance To: null
+Race: Human
+Abilities:
+HP: 68
+XP:
+Moves: 4
+COst:
+Alignment: neutral
+Description:
+Attacks:
+Mace melee (impact) 17-3
+spear melee (pierce) 16-3
+sword melee (blade) 13-4
+Resists:
+arcane- 20%
+blade- 30%
+cold- 0%
+fire- -10%
+impact- 10%
+pierce- 30%
+Terrain:
+Snow-3 20%
+Castle-1 50%
+Sand-3 20%
+Village-1 50%
+Grassland-1 30%
+Forest-2 40%
+Hills-2 40%
+Mountains-3 50%
+Chasm-100
+Swamp-3 20%
+Mushroom-3 40%
+Cave-2 30%
+Deep Water-100 10%
+Shallow Water-3 20%
+Cave Wall-100 30%
+
+Name: Rune Apprentice
+Advance From: null
+Advance To: Rune Interpreter
+Race: Human
+Abilities:
+HP:30
+XP:
+Moves: 5
+COst:
+Alignment: neutral
+Description:
+Attacks:
+Chisel melee (pierce) 7-1
+Fire rune melee (fire) 5-4 magical
+Resists:
+arcane- 20%
+blade- 0%
+cold- 0%
+fire- 0%
+impact- 0%
+pierce- 0%
+Terrain:
+Snow-3 30%
+Castle-1 60%
+Sand-3 30%
+Village-1 60%
+Grassland-1 40%
+Forest-2 50%
+Hills-2 50%
+Mountains-3 60%
+Chasm-100
+Swamp-3 30%
+Mushroom-3 50%
+Cave-2 40%
+Deep Water-100 20%
+Shallow Water-3 30%
+Cave Wall-100 40%
+
+Name: Rune Interpreter
+Advance From: 
+Advance To:
+Race:
+Abilities:
+HP:50
+XP:
+Moves: 5
+COst:
+Alignment: neutral
+Description:
+Attacks:
+chisel melee (pierce) 7-2
+fire rune ranged (fire) 7-4
+ice rune ranged (cold) 6-5
+Resists:
+arcane- 20%
+blade- 0%
+cold- 10%
+fire- 10%
+impact- 0%
+pierce- 0%
+Terrain:
+Snow-3 30%
+Castle-1 60%
+Sand-3 30%
+Village-1 60%
+Grassland-1 40%
+Forest-2 50%
+Hills-2 50%
+Mountains-3 60%
+Chasm-100
+Swamp-3 30%
+Mushroom-3 50%
+Cave-2 40%
+Deep Water-100 20%
+Shallow Water-3 30%
+Cave Wall-100 40%
+
+Name: Rune Mage
+Advance From: Rune Interpreter
+Advance To: null
+Race: Human
+Abilities:
+HP: 62
+XP:
+Moves: 5
+COst:
+Alignment: neutral
+Description:
+Attacks:
+chisel melee (pierce) 9-2
+fire rune ranged (fire) 10-4 magical
+ice rune ranged (cold) 9-5 magical
+light rune ranged (arcane) 6-8 magical
+Resists:
+arcane- 20%
+blade- 0%
+cold- 20%
+fire- 20%
+impact- 0%
+pierce- 0%
+Terrain:
+Snow-3 30%
+Castle-1 60%
+Sand-3 30%
+Village-1 60%
+Grassland-1 40%
+Forest-2 50%
+Hills-2 50%
+Mountains-3 60%
+Chasm-100
+Swamp-3 30%
+Mushroom-3 50%
+Cave-2 40%
+Deep Water-100 20%
+Shallow Water-3 30%
+Cave Wall-100 40%
+
+Name: Reductor
+Advance From: null
+Advance To: Alloy, Titan
+Race: Human
+Abilities:
+HP: 30
+XP:
+Moves: 6
+COst:
+Alignment: neutral
+Description:
+Attacks:
+Mace melee (impact) 5-3
+Resists:
+arcane- 20%
+blade- 0%
+cold- 0%
+fire- 0%
+impact- 0%
+pierce- 0%
+Terrain:
+Snow- 2 40%
+Castle- 1 70%
+Sand- 2 40%
+Village- 1 70%
+Grassland- 1 50%
+Forest- 2 70%
+Hills- 2 60%
+Mountains- 3 70%
+Chasm- 100
+Swamp- 3 40%
+Mushroom- 3 70%
+Cave- 2 40%
+Deep Water- 100 30%
+Shallow Water- 3 40%
+Cave Wall- 100 50%
+
+Name: Featherlite
+Advance From: Reductor
+Advance To: null
+Race: Human
+Abilities:
+HP: 40
+XP:
+Moves: 7
+COst:
+Alignment: neutral
+Description:
+Attacks:
+Mace melee (impact) 6-4
+Resists:
+arcane- 20%
+blade- 0%
+cold- 0%
+fire- 0%
+impact- 0%
+pierce- 0%
+Terrain:
+Snow- 2 40%
+Castle- 1 70%
+Sand- 2 40%
+Village- 1 70%
+Grassland- 1 50%
+Forest- 2 70%
+Hills- 2 60%
+Mountains- 3 70%
+Chasm- 100
+Swamp- 3 40%
+Mushroom- 3 70%
+Cave- 2 40%
+Deep Water- 100 30%
+Shallow Water- 3 40%
+Cave Wall- 100 50%
+
+Name: Titan
+Advance From: Reductor
+Advance To: null
+Race: Human
+Abilities:
+HP: 45
+XP:
+Moves: 3
+COst:
+Alignment: neutral
+Description:
+Attacks:
+Mace 22-1
+Resists:
+arcane- 20%
+blade- 70%
+cold- 30%
+fire- 20%
+impact- 60%
+pierce- 70%
+Terrain:
+Snow-3 10%
+Castle-1 40%
+Sand-3 10%
+Village-1 40%
+Grassland-1 20%
+Forest-2 30%
+Hills-2 30%
+Mountains-2 40%
+Chasm-100
+Swamp-3 10%
+Mushroom-3 20%
+Cave-2 20%
+Deep Water-100 0%
+Shallow Water-3 10%
+Cave Wall-100 20%
+
+
+Name: Hotshot
+Advance From: null
+Advance To: Clearbow, Blazier
+Race: Human
+Abilities:
+HP: 34
+XP:
+Moves: 5
+COst:
+Alignment: neutral
+Description:
+Attacks:
+knife melee (blade) 4-3
+bow ranged (pierce) 6-3 marksman
+Resists:
+arcane- 20%
+blade- 0%
+cold- 0%
+fire- 0%
+impact- 0%
+pierce- 0%
+Terrain:
+Snow-3 30%
+Castle-1 60%
+Sand-3 30%
+Village-1 60%
+Grassland-1 40%
+Forest-2 50%
+Hills-2 50%
+Mountains-3 60%
+Chasm-100
+Swamp-3 30%
+Mushroom-3 50%
+Cave-2 40%
+Deep Water-100 20%
+Shallow Water-3 30%
+Cave Wall-100 40%
+
+Name: Clearbow
+Advance From: Hotshot
+Advance To: Crystalbow
+Race: Human
+Abilities:
+HP: 50
+XP:
+Moves: 5
+COst:
+Alignment: neutral
+Description:
+Attacks:
+knife melee (blade) 5-3
+bow ranged (pierce) 8-3 marksman
+bow ranged (arcane) 7-4 magical
+Resists:
+arcane- 20%
+blade- 0%
+cold- 0%
+fire- 0%
+impact- 0%
+pierce- 0%
+Terrain:
+Snow-3 30%
+Castle-1 60%
+Sand-3 30%
+Village-1 60%
+Grassland-1 40%
+Forest-2 50%
+Hills-2 50%
+Mountains-3 60%
+Chasm-100
+Swamp-3 30%
+Mushroom-3 50%
+Cave-2 40%
+Deep Water-100 20%
+Shallow Water-3 30%
+Cave Wall-100 40%
+
+Name: Crystalbow
+Advance From: Clearbow
+Advance To: null
+Race: Human
+Abilities:
+HP: 65
+XP:
+Moves: 5
+COst:
+Alignment: neutral
+Description:
+Attacks:
+knife melee (blade) 6-3
+bow ranged (pierce) 13-3 marksman
+bow ranged (arcane) 8-5 magical
+Resists:
+arcane- 20%
+blade- 0%
+cold- 0%
+fire- 0%
+impact- 0%
+pierce- 0%
+Terrain:
+Snow-3 30%
+Castle-1 60%
+Sand-3 30%
+Village-1 60%
+Grassland-1 40%
+Forest-2 50%
+Hills-2 50%
+Mountains-3 60%
+Chasm-100
+Swamp-3 30%
+Mushroom-3 50%
+Cave-2 40%
+Deep Water-100 20%
+Shallow Water-3 30%
+Cave Wall-100 40%
+
+Name: Blazier
+Advance From: Hotshot
+Advance To: Incinerator
+Race: Human
+Abilities:
+HP: 54
+XP:
+Moves: 5
+COst:
+Alignment: neutral
+Description:
+Attacks:
+knife melee (blade) 4-4
+bow ranged (pierce) 9-3 marksman
+bow ranged (fire) 12-2 magical
+Resists:
+arcane- 20%
+blade- 0%
+cold- 0%
+fire- 0%
+impact- 0%
+pierce- 0%
+Terrain:
+Snow-3 30%
+Castle-1 60%
+Sand-3 30%
+Village-1 60%
+Grassland-1 40%
+Forest-2 50%
+Hills-2 50%
+Mountains-3 60%
+Chasm-100
+Swamp-3 30%
+Mushroom-3 50%
+Cave-2 40%
+Deep Water-100 20%
+Shallow Water-3 30%
+Cave Wall-100 40%
+
+Name: Incinerator
+Advance From: Blazier
+Advance To: null
+Race: Human
+Abilities:
+HP: 68
+XP:
+Moves: 5
+COst:
+Alignment: neutral
+Description:
+Attacks:
+knife melee (blade) 6-4
+bow ranged (pierce) 11-4 marksman
+bow ranged (fire) 20-2 magical
+Resists:
+arcane- 20%
+blade- 0%
+cold- 0%
+fire- 0%
+impact- 0%
+pierce- 0%
+Terrain:
+Snow-3 30%
+Castle-1 60%
+Sand-3 30%
+Village-1 60%
+Grassland-1 40%
+Forest-2 50%
+Hills-2 50%
+Mountains-3 60%
+Chasm-100
+Swamp-3 30%
+Mushroom-3 50%
+Cave-2 40%
+Deep Water-100 20%
+Shallow Water-3 30%
+Cave Wall-100 40%		
