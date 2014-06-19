@@ -10,6 +10,6 @@ Version 4.11.1:
     * Fixed Decay
 * Other
     * Updated EoMa part to be more like is in EoMa (This didn't get totally included in 4.11)
-    * Update to wesnoth 1.11
+    * Update to wesnoth 1.11 as well
 * Outstanding issues
     * Organizing this era and balance
