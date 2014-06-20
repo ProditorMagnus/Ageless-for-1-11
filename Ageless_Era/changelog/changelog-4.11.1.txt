@@ -4,7 +4,8 @@ Version 4.11.1:
     * Added missing High Elf images
     * Fixed Tharis animations
 * Balance
-    * Battlemage: Hitpoints 25 -> 30 -> 26, Spore Hive: Cost 8 -> 32 -> 28, Fanatic cost 18 -> 32 -> 37
+    * Battlemage: Hitpoints 25 -> 30 -> 26, Spore Hive: Cost 8 -> 32 -> 28, Fanatic cost 18 -> 32 -> 37, Aristocrat: Cost 16 -> 15, Nightmare, Cyclops Skeleton, Atokpi, Omen: Cost +1
+    * Area attack not active on def
 * Bug Fixes
     * Fixed Khthon Heroes recruitment
     * Movetypes for Whites ships
