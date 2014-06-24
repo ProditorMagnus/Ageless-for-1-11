@@ -9,7 +9,7 @@ Version 4.11.1:
 * Bug Fixes
     * Fixed Khthon Heroes recruitment
     * Movetypes for Whites ships
-    * Fixed Decay, Sculpt
+    * Fixed Decay, Sculpt, Summon
 * Other
     * Updated EoMa part to be more like is in EoMa (This didn't get totally included in 4.11)
     * Update for wesnoth 1.11 as well
