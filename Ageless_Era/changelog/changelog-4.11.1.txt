@@ -1,7 +1,8 @@
 Version 4.11.1:
 * Eras and Factions
+    * Added missing EFM - Imperialists units
 * Graphics
-    * Added missing High Elf images
+    * Added missing High Elf images, updated EFM images
     * Fixed Tharis animations
 * Balance
     * Battlemage: HP 25 -> 30 -> 26, Spore Hive: Cost 8 -> 32 -> 28, Fanatic cost 18 -> 32 -> 37, Aristocrat: Cost 16 -> 15, Nightmare, Cyclops Skeleton, Atokpi, Omen: Cost +1, Grand Flyer: HP 44 -> 50 Melee DMG +1
