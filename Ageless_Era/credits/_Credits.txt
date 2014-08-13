@@ -22,6 +22,7 @@ CONTRIBUTERS
 -- Juan- - Some coding and balancing.
 -- RenoOfTurks - Some coding and balancing.
 -- IPS - A lot of balancing tips and bug reports.
+-- SiegeTank - Balance of factions as a whole.
 
 
 PLAY TESTERS
@@ -44,12 +45,13 @@ CURRENT ERAS / FACTIONS
 -- Extended Era
 -- Archaic Era
 -- Era of the Future
---Era of Four Moons
+-- Era of Four Moons
 -- BEEM
 -- Yokai
 -- Dark Legion
 -- Desert Elves
 -- Steelhive
+-- Frozen
 -- Era of Myths
 -- Feudal Era
 -- Imperial Era
@@ -372,88 +374,110 @@ WINDSONG
 #  *    *    *    *   E R A   O F   M A G I C   C R E D I T S   *    *    *    *  #
 ###################################################################################
 IDEA / CREATOR / GRAPHICS
--- inferno8
+inferno8
 
+ERA MAINTAINERS
+inferno8
+Espreon
+Alarantalara
+
+ART
+inferno8
 
 DESCRIPTIONS
--- AzuSkyLigh - Summoners
--- Araja - corrections
--- sur.nhm - Dark Blood Alliance
--- CheeseLord - Runemasters
-
+AzuSkyLigh (Summoners)
+Araja (corrections)
+sur.nhm (Dark Blood Alliance)
+CheeseLord (Runemasters)
+Slug (Barbarians)
 
 CODING
--- inferno8
--- fog_of_gold
-
+Alarantalara
+Espreon
+fog_of_gold
 
 BALANCING
--- barowei
--- dk
--- fog_of_gold
--- Froz
--- nikon
--- Poliuks
--- Sagez
--- vul6
--- wesfreak
--- WindEnchanter
--- X-Site
-
+Adris
+barowei
+dk
+fog_of_gold
+Froz
+jozio
+kalfat
+nikon
+Piko
+Poliuks
+Sagez
+salvor
+vul6
+wesfreak
+WindEnchanter
+X-Site
 
 ORGANIZING
--- Mica
--- -stf- - (savegames)
--- Karambol
+Alarantalara
+Espreon
+Mica
+-stf-
+Karambol
 
+TRANSLATIONS
+BioHazardX
+Drakefriend
+inferno8
+IWAI Masaharu
+Kelemen Zoltán
+Mountain_King
 
 SPECIAL THANKS
--- Era of Myths
--- Extended Era - (dark elves concept)
--- Imperial Era
--- Mercenaries Era
+All creators of: Era of Myths, Extended Era (dark elves concept), Imperial Era, Mercenaries Era
 
-  POLISH BfW COMMUNITY
-  -- barowei - (SRP support; BRP support; RIPLIB suggestions)
-  -- dk
-  -- dragon_warrior
-  -- Froz - (early balancing
-  -- Jah
-  -- James Revan - Rhami concept
-  -- Karambol - stderr.txt suggestions
-  -- Poliuks - RIPLIB suggestions; BRP suggestions
-  -- Sagez - Jinns concept, active support
-  -- Serpent - Originator Dark Blood Alliance
-  -- vetch - Eagle Eye
-  -- vul6 - WRP support
-  -- Werian
-  -- Zaku
+Polish BfW community:
+(in alphabetical order)
+barowei (SRP support; BRP support; RIPLIB suggestions)
+dk
+dragon_warrior
+Froz (early balancing)
+Jah
+James Revan (Rhami concept)
+Karambol (stderr.txt suggestions)
+Poliuks (RIPLIB suggestions; BRP suggestions)
+Sagez (Jinns concept, active support)
+Serpent (originator Dark Blood Alliance)
+vetch (Eagle Eye)
+vul6 (WRP support)
+Werian
+Zaku
 
-  OFFICIAL BfW FORUM USERS
-  -- Aura - Art advisory
-  -- Binaryquasar
-  -- devas
-  -- Fatquack - Bug finder
-  -- fog_of_gold - A lot of balancing suggestions
-  -- Gena
-  -- lightdragonx
-  -- lastdragon
-  -- Mica
-  -- Michchar
-  -- mnewton1
-  -- Quietus
-  -- Peter The Great1
-  -- Sandermatt
-  -- Slug - Barbarians descriptions
-  -- -stf-
-  -- Thrawn - Original units names suggestions
-  -- Velensk - Alchemists -> Summoners
-  -- Vendanna - Hydras and balancing
-  -- wesfreak - Amazing balance suggestions
-  -- WindEnchante - Translations in the future
-  -- zacharias - Traits removing idea
-  -- Zookeeper - WML support on the official forum
-  -- And all Era of Magic's fans.
+official BfW forum users:
+(in alphabetical order)
+
+Aura (art advisory)
+Binaryquasar
+devas
+Fatquack (bugs finder)
+fog_of_gold (a lot of balancing suggestions)
+Gena
+lightdragonx
+lastdragon
+Mica
+Michchar
+mnewton1
+Quietus
+Peter The Great1
+Ravana
+Sandermatt
+Slug (Barbarians descriptions)
+-stf-
+Thrawn (original units names suggestions)
+Velensk (Alchemists -> Summoners)
+Vendanna (hydras and balancing)
+wesfreak (amazing balance suggestions)
+WindEnchanter (translations in the future)
+zacharias (traits removing idea)
+Zookeeper (WML support on the official forum)
+
+and all Era of Magic's fans.
 
 
 
@@ -676,7 +700,7 @@ SPECIAL THANKS:
 
 
 #########################################################################################
-#  *    *    *    *   M E R C E N A R I E S   E R A   C R E D I T S   *    *    *    *  #
+#  *    *    *    *   E R A  O F  F O U R  M O O N S   C R E D I T S   *    *    *    *  #
 #########################################################################################
 HEAD CODER:
 -- Velensk
@@ -684,3 +708,17 @@ HEAD CODER:
 IDEA / ART:
 -- L. Shelby
 
+#############################################################################################
+#  *    *    *    *   F R O Z E N   F A C T I O N   C R E D I T S   *    *    *    *  #
+#############################################################################################
+ART:
+-- Zerovirus
+
+CODERS:
+-- ChaosRider
+-- Ravana
+-- Wender_BR
+
+BALANCE:
+-- SiegeTank
+-- Wender_BR
