@@ -1,10 +1,16 @@
 Version 4.12.1:
+* Graphics
+    * Reduces Jinn attack animation, fixed Tharis Witch ones
+* Balance
+    * Started implementing Terrapin balance
+    * Arrow Fury increased to 50%, Buffed Steel Larva
 * Critical Bug Fixes
     * Fleshpool Sacrifice
     * Hex cure on village
     * Despair impassable movetypes
 * Bug Fixes
-    * Penumbra
+    * Penumbra, Adamantine shell, Wyvern traits
     * RPG era Tharis faction select image
 * Other
+    * Latch warns of false positive oos
     * Dropping support of wesnoth 1.10
