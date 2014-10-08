@@ -12,5 +12,5 @@ Version 4.12.1:
     * Penumbra, Adamantine shell, Wyvern traits
     * RPG era Tharis faction select image
 * Other
-    * Latch warns of false positive oos
+    * Latch warns about false positive oos
     * Dropping support of wesnoth 1.10
