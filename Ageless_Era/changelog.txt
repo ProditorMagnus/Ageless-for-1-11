@@ -4,6 +4,7 @@ Version 4.12.1:
 * Balance
     * Started implementing Terrapin balance
     * Arrow Fury increased to 50%, Buffed Steel Larva
+    * Some units stats increased
 * Critical Bug Fixes
     * Fleshpool Sacrifice
     * Hex cure on village
