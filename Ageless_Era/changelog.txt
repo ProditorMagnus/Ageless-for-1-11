@@ -13,5 +13,6 @@ Version 4.12.1:
     * Penumbra, Adamantine shell, Wyvern traits
     * RPG era Tharis faction select image
 * Other
+    * Awake happens before unit is dead, xp changed from kill xp to 4
     * Latch warns about false positive oos
     * Dropping support of wesnoth 1.10
