@@ -1,6 +1,7 @@
 Version 4.12.1:
 * Graphics
     * Reduced Jinn attack animation, fixed Tharis Witch ones
+    * New archaic portraits
 * Balance
     * Started implementing Terrapin balance
     * Arrow Fury increased to 50%, Buffed Steel Larva
