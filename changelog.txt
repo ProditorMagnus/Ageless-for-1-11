@@ -8,6 +8,7 @@ Version 4.13:
     * Full redo of Archaic Era
     * Cost increase of most level 3-4 units
     * XP increase for amlas and lowering for level 2->3 advance
+    * Too many mostly small balance changes and fixes to list here
 * Bug Fixes
     * Fixed Cursedsword preventing plague and other specials
     * Fixed random faction selections
