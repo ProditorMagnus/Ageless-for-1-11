@@ -175,5 +175,10 @@ change archaic and EoC multiplayer side ids, fix factions ids, arc mp sides plac
 sort eras and factions alphabetically
 prevented crital bug where vector can happen on high hp, if given strike upgrades
 cursedsword is still stopping plague and some [kill ] is causing problems, must be wrong filter.. yes, filter_attack vs filter_weapon... anyways Removed [kill ] there..
+removed fleshpool from random leader
+archaic needs more leader choices
+check if ai can use statues, if not then remove from orocia -- statue doesnt unpetrify on night, when created with way other than recruiting
+changelogs
+
 
 
