@@ -173,3 +173,7 @@ Seems that 1.12.1 decided to start enforcing "id: faction ID - must be unique to
 better grouping would be "not defaultlike"
 change archaic and EoC multiplayer side ids, fix factions ids, arc mp sides placeholder ids, randoms list
 sort eras and factions alphabetically
+prevented crital bug where vector can happen on high hp, if given strike upgrades
+cursedsword is still stopping plague and some [kill ] is causing problems, must be wrong filter.. yes, filter_attack vs filter_weapon... anyways Removed [kill ] there..
+
+
