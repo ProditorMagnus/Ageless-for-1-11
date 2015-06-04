@@ -2,6 +2,7 @@ Version 4.13:
 * Eras and Factions
     * New era: Era of Chaos, merged factions too close to EE or EoS or EoM or FE
     * New faction: Menagerie in Archaic Era
+    * EE and misc khalifates removed in favour of default
 * Graphics
     * Fixed some missing images including ellipses
 * Extensive changes
