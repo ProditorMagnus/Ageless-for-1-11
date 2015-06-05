@@ -181,3 +181,4 @@ check if ai can use statues, if not then remove from orocia -- statue doesnt unp
 changelogs
 allowed AE_MRC_AMLA_DISEASE 999 times, added max xp increase 10%
 added heal_full=yes to AE_AMLA_ARMOR
+fixed wolfling knife icon
