@@ -14,5 +14,5 @@ Version 4.13:
     * Fixed Cursedsword preventing plague and other specials
     * Fixed random faction selections
 * Other
-    * Added quick leaders and turn over event
+    * Added quick leaders and time over event
     * Factions and eras sorting changed to alphabetical
