@@ -182,3 +182,6 @@ changelogs
 allowed AE_MRC_AMLA_DISEASE 999 times, added max xp increase 10%
 added heal_full=yes to AE_AMLA_ARMOR
 fixed wolfling knife icon
+Khthon thralls damage changed from 120% to 60% of original unit
+Cyborg damage lowered 7-3 and 16-1 to 5-3 and 11-1
+Menagerie engineers repairs lowered from 16 to 8 and 10
