@@ -74,7 +74,7 @@ grenade, hard landing, furious death add damage to description
 write sculpt to not depend on type
 rewrite kirios beam
 remove old eoma files
-slicer-fanatic advance cost changes - lowered fanfic cost and increased damage
+slicer-fanatic advance cost changes - lowered fanatic cost and increased damage
 deadly strike description - 6% times level diff -- level 3 unit pierce resist -- should have fire_event=yes
 omen can still aoe petrified ones - finally fixed
 frozen golem aura not working on yokai banshee, ice golem titan doesnt lower dwarf rune lord resist - fixed and informed chaosrider
