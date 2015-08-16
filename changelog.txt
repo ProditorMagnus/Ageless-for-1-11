@@ -1,18 +1,14 @@
-Version 4.13:
+Version 4.14:
 * Eras and Factions
-    * New era: Era of Chaos, merged factions too close to EE or EoS or EoM or FE
-    * New faction: Menagerie in Archaic Era
-    * EE and misc khalifates removed in favour of default
+    * Nordhris to EotF
+    * Monsters to EE
 * Graphics
-    * Fixed some missing images including ellipses
+    * Placeholder projectiles to many units
 * Extensive changes
-    * Full redo of Archaic Era
-    * Cost increase of most level 3-4 units
-    * XP increase for amlas and lowering for level 2->3 advance
-    * Too many mostly small balance changes and fixes to list here
+    * Whites, Phantoms, Elementals, Runemasters, Minotaurs, Frozen, Sylvans, Issaelfr, Brungar, Triththa, Clockwork, Orcei, Khthon balance
+    * Vector and Enthrallment massively weakened
 * Bug Fixes
-    * Fixed Cursedsword preventing plague and other specials
-    * Fixed random faction selections
+    * Runelaying does not prevent undo anymore
 * Other
-    * Added quick leaders and time over event
-    * Factions and eras sorting changed to alphabetical
+    * Immediate era version check of all player at start
+    * This start message will only be shown once. After that it can be opened by selecting and deselecting your unit quickly several times

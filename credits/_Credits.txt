@@ -4,10 +4,10 @@
 
 Almost all credit goes to the original creators of the all the factions in my era which are listed below.
 
-HEADCODER / CREATOR
+CREATOR
 -- Mnewton1
 
-CURRENT MAINTAINER
+CURRENT MAINTAINER/HEADCODER
 -- Ravana
 
 
