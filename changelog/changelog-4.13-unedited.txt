@@ -169,8 +169,8 @@ level 3 must be at least 100, unless special
 change costs of all too cheap level 3/4 units http://forums.wesnoth.org/viewtopic.php?f=19&t=25274&p=583634#p583631 40 for level 3, 60 for level 4, add comment to mark it autochanged - split string to int with c++ is too much for me, just added +30 to most units cost
 steelhive drain not affect undead
 ageless version num variable
-Seems that 1.12.1 decided to start enforcing "id: faction ID - must be unique to your era. No gameplay effect" of [ multiplayer_side].
-better grouping would be "not defaultlike"
+Seems that 1.12.1 decided to start enforcing id: faction ID - must be unique to your era. No gameplay effect of [ multiplayer_side].
+better grouping would be not defaultlike
 change archaic and EoC multiplayer side ids, fix factions ids, arc mp sides placeholder ids, randoms list
 sort eras and factions alphabetically
 prevented crital bug where vector can happen on high hp, if given strike upgrades
