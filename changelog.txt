@@ -6,7 +6,8 @@ Version 4.14:
 * Graphics
     * Placeholder projectiles to many units
 * Extensive changes
-    * Whites, Phantoms, Elementals, Runemasters, Minotaurs, Frozen, Sylvans, Issaelfr, Brungar, Triththa, Clockwork, Orcei, Khthon balance
+    * Whites, Phantoms, Elementals, Runemasters, Minotaurs, Frozen, Sylvans, Issaelfr, Brungar, Triththa, Clockwork, Orcei, Khthon balance by SiegeTank
+    * Avians, Blight, Cult, Emperors Guard, Enchanters, Equestrians, Highlanders, Hive, Slavers, Tribe projectiles and sounds by tommy2teeth
     * Vector and Enthrallment massively weakened
 * Bug Fixes
     * Runelaying does not prevent undo anymore

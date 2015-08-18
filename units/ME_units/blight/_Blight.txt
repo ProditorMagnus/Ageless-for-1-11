@@ -19,11 +19,11 @@ Weaken (unit damage = unit hp/strikes
 
 		Lvl 0			Lvl 1			Lvl 2			Lvl 3			Lvl 4
 
-Feeding/drain	Blob -------------------> Slime ----------------> Ooze
+Feeding/drain	Amoeba -------------------> Slime ----------------> Blob
 					>
 Ranged					> Acid
 					>
-Split					> Amoeba
+Split					> Ooze
 
 disease		Microbe ----------------> Bacteria
 
@@ -51,9 +51,9 @@ Sacrifice							> Fleshpool
 
 
 
-Name: Blob
+Name: Amoeba
 Advance From: null
-Advance To: Slime, Acid, Amoeba
+Advance To: Slime, Acid, Ooze
 Race: Blight
 Abilities:
 HP: 10
@@ -89,8 +89,8 @@ Shallow Water- 2 40%
 Cave Wall- 100 30%
 
 Name: Slime
-Advance From: blob
-Advance To: Ooze
+Advance From: amoeba
+Advance To: blob
 Race: Blight
 Abilities: regenerates
 HP: 28
@@ -125,7 +125,7 @@ Deep Water- 2 40%
 Shallow Water- 2 40%
 Cave Wall- 100 30%
 
-Name: Ooze
+Name: Blob
 Advance From: Slime
 Advance To: null
 Race: Blight
@@ -163,7 +163,7 @@ Shallow Water- 2 40%
 Cave Wall- 100 30%
 
 Name: Acid
-Advance From: blob
+Advance From: amoeba
 Advance To: null
 Race: Blight
 Abilities: Corrosive (when struck enemy takes 2 fire damage)
@@ -200,8 +200,8 @@ Deep Water- 2 40%
 Shallow Water- 2 40%
 Cave Wall- 100 30%
 
-Name: Amoeba
-Advance From: Blob
+Name: Ooze
+Advance From: amoeba
 Advance To: null
 Race: Blight
 Abilities: Split (when struck by blade damage, if there is an open hex adjacent a blob appears with hp equal to the amount of damage taken)
