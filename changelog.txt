@@ -11,6 +11,7 @@ Version 4.14:
     * Vector and Enthrallment massively weakened
 * Bug Fixes
     * Runelaying does not prevent undo anymore
+    * Dwarf Smith leveling does not end game anymore
 * Other
     * Immediate era version check of all player at start
     * <span color='orange'>This start message will only be shown once. After that it can be opened by selecting and deselecting your unit quickly several times</span>
