@@ -165,3 +165,4 @@ EoC chaos: http://pastebin.com/Y13hXrDg
 Thanks to ChaosRider for monsters images
 say that enthrallment doesnt conflict with creep war anymore
 monsters faction lists, delete ogres unless said otherwise
+ST: Monsters http://pastebin.com/hhKECWmT
