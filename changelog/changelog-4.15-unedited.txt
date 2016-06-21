@@ -1,0 +1,31 @@
+statue crash
+projectiles
+check for knockback_target_hex.length before local move_cost = wesnoth.unit_movement_cost(u, t), else t is empty and errors
+AE_mrc_holy_order_Wisdomkeeper leadership level fixed
+blight ooze slightly reduce damage
+when EoMa mechanic grenade kills itself then other dead unit remains with negative hp
+EoS ballista needs to move better
+khthon frogs need buff
+some of hoplites are much better than others
+serpent therian -1 ranged damage
+eltire strider image
+dimensional gate 2
+hive flea-tick resists
+electric image isnt removed
+forgot to give health to wiseman
+archaic wind daemons are without images - need to readd the wind parts
+spiders health too low
+forgot to remove halo from mummy noble
+ukian civilian stronger, recruitable
+free saurian skulker xp way too low
+nordhris units can move on unwalkable
+northern strongbow short sword image
+ME highlander 0% sand, check infernai snow
+(tentatively accepted) revert rune lord resists, but lower damage
+oracles specialised study, no damage, no retaliation
+make color mod variables observable for unsynced menu, xp mod too
+sidhe wildblade xp
+runner drone loses movement on advance
+EE lesser mutation resists
+EoS wind strider xp
+ME battlemage loses arcane resist on level
