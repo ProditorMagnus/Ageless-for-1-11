@@ -48,3 +48,12 @@ orderling cleric overpriced, priest is weak too
 lunar mantis is quite strong for level 1
 efm hippo xp
 vector could jump to unit with more than 30%hp
+20160121 00:48:13 error display: could not open image 'halo/elder-mage-halo1.png'
+20160121 00:48:13 error display: could not open image 'halo/elder-mage-halo2.png' from guru?
+ceresian corporal spear image
+ice golems.... reduce ChaosRider influence
+consider cybercone hp
+Ryu line superfluous attacks
+avain sitter reduce weakness
+hex image shows when it shouldnt - unsure if fixed or not
+
