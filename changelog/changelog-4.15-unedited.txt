@@ -29,3 +29,8 @@ runner drone loses movement on advance
 EE lesser mutation resists
 EoS wind strider xp
 ME battlemage loses arcane resist on level
+made beta feature public
+south-sea breeze should be elemental
+some new khthon units
+New unit line in ukians
+New unit line in menagerie, also Blocker
