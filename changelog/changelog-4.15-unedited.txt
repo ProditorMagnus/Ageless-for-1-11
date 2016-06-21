@@ -34,3 +34,17 @@ south-sea breeze should be elemental
 some new khthon units
 New unit line in ukians
 New unit line in menagerie, also Blocker
+chaos sharpshooter amla
+see widow-in-white xp
+high elf enchantress too weak for its cost
+replace all ARCHAIC_ABILITY_SELFHEAL to AE
+northern orc ox-rider level 1 has more mp than 2 or 3
+check freezing aura description timing
+level 0 terrapins shouldnt vector, hiding ones either
+vector attack disable before
+removed vector abilities from horse
+trireme has become too strong
+orderling cleric overpriced, priest is weak too
+lunar mantis is quite strong for level 1
+efm hippo xp
+vector could jump to unit with more than 30%hp
