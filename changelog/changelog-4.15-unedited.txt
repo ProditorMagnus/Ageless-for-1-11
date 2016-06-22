@@ -97,3 +97,35 @@ tower madam cost
 see if dogface has too high damage for level
 falcon therian and others movement animation missing - maybe slight improved, but not completely
 some hive overly weak to fire
+dove illuminates halo
+dark elf enchantress xp
+bladewhirler shouldnt be leader
+crocodile rider should be leader
+anakes archdaemon and slaugtherer(decrease arcane and cold weakness or improve physical, consider +damage) resists
+sidhe warsinger too high damage
+think of stonewall terrain defs
+focul shouldnt need so much xp
+avian owl damage
+warg blackfur cost
+armored mechanic lines too much, split to strikes at level 2
+should mudcrawler be elemental
+anakes archer is weak, at level 3 it needs +3 dmg or +1 str
+fanatic genie melee damage-1
+yokai are weak, https://forums.wesnoth.org/viewtopic.php?f=19&t=25274&start=1575#p595407 - mentioned units made stronger
+Also about the Ice rune imrprover at Enchanters faction, he has a 4-10 ranged atack, nerfing his RPG and Orocia potential a bit by changing it to 5-8
+AE_myh_windsong_Seeker change HUMAN_OLD_HIT to HUMAN_FEMALE_HIT
+eltire elementalist is not good to advance
+lady'o'war too expensive, to 17
+EoC sylvans elf acolyte line is weak
+highlander contestant too weak, compare to thunderer
+fanatics mindless might be too weak, devoted too
+EoM wargs flame sprite levelup too few hp
+increase maras xp
+increase mistress of light and other great units amla xp, um
+should imperialist standard have lower max
+emperors ozutsu should have normal def
+AE_chs_sustenance should not cap resists
+runefighter...
+FE orcs overpriced/weak, skewer
+seahag is weak
+whirlwind cost
