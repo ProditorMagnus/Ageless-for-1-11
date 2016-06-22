@@ -56,4 +56,44 @@ consider cybercone hp
 Ryu line superfluous attacks
 avain sitter reduce weakness
 hex image shows when it shouldnt - unsure if fixed or not
-
+wrath of the gods line is too difficult to level - decrease xp
+maybe mystic jinn attack animation shouldnt be flipped
+avian grounded xp
+pacificator resists
+kamikaze mp/damage compared to EoMa
+sun follower line has gained first strike
+kharow war banner awe
+kharos prophet of light extra attack
+energy draining for gates
+troll warbanner self
+bigfoot wants much xp
+see why therian sandskipper image isnt used - for a reason, it doesnt look good, used attack image though
+Line 27: 20160201 17:16:43 error display: could not open image 'units/warlocks/shadowwitch-attack2.png'
+Line 28: 20160201 17:17:35 error display: could not open image 'units/saurians/healer-magic.png'
+Line 81: 20160201 19:24:35 error display: could not open image 'halo/darkball1.png'
+Line 82: 20160201 19:24:35 error display: could not open image 'halo/darkball2.png'
+Line 83: 20160201 19:24:35 error display: could not open image 'halo/darkball3.png'
+Line 84: 20160201 19:24:35 error display: could not open image 'halo/darkball4.png'
+Line 85: 20160201 19:24:35 error display: could not open image 'halo/darkball5.png'
+Line 107: 20160201 20:03:24 error display: could not open image 'units/saurians/ice-heart-attack.png'
+orcish drifter learned learned
+increase master of sun line damage
+saurian elementalist should be better
+dragons should have more power considering upkeep
+<15:04 Ravana> looking stun code actually suggests that when used against level 1+ unit without zoc then using stun gives that unit zoc - indeed it did
+also, why stun looks like marksman
+move damage and number before [sp ecials] for cursedsword lines and sculptor - actually, for cursedsword its from the [damage ] special - still, fix for all
+AE_myh_wargs_Water_Dryad line is not recruitable add heal too
+also make infernai berserkers recruitable and add note that art is from EoMa
+reduce warg line xp
+see yeti leader 2
+wind-caller too low hp without magic
+Guru is too strong... Try physical resists 60->50
+EoC Summoner line lacks female images
+wiseman too strong
+check if AE_fut_Nordhris_Farseer has image - wrong case path
+cavernei eagle master mustnt be leader
+tower madam cost
+see if dogface has too high damage for level
+falcon therian and others movement animation missing - maybe slight improved, but not completely
+some hive overly weak to fire
