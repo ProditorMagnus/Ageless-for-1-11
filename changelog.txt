@@ -11,7 +11,7 @@ Version 4.15:
     * Devilings, Yokai by IPS
     * Many small changes
 * Bug Fixes
-    * Fixed Stone Staue line causing crash
+    * Fixed Stone Statue line causing crash
     * Removed knockback message on occupied hex
     * Fixed Wisdomkeeper leadership level
     * Vector 30% health limit
