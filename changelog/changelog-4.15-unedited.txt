@@ -129,3 +129,105 @@ runefighter...
 FE orcs overpriced/weak, skewer
 seahag is weak
 whirlwind cost
+Little devling rebalance(IPS)
+1.- Devling Cursers, Devling Blasphemists, Devling Offenders, Devling abusers: must have an aditional ranged atack with 2/3 arcane damage in order to be harder to counter. They are the only linebreakers on the faction and for consideration, it's intended that they don't get countered that easy because otherwise faction will colapse.
+2.- Devling Offenders: It's needed that this unit performs as good as any other lv2 mage at all cost regardless of anything. Coming from a lv0 unit and then from a lv1 unit they're not commonly seen in PvP except as leader. So, considering all mentionated points is highly recomended to check these points:
+a) removing any physical weakness, simple, the aditional cloth on the sprite can justificate this, as well the cloth can remove any cold weakness and even making it to +10% or 20% cold resistant this lv2.
+b) Its stats are all fine apart of the weaknesses, and if we consider it could gain a 5-4 arcane ranged magical atack as bonus, this could make this line a notisable faction strength.
+3.- Devling abusers: actually this lv3 is somehow weak, but with the previously mentionated buffs this unit can be considerably stronger. Would recomend to check the next points:
+a) 10-4 cold magical is a bit too weak, but if we make it into something like 11-4 and then 7-4 arcane ranged magical this unit can become something to consider.
+b) probably would be better for balance to make this unit durability more stable, would suggest to neutralize all arcane weakness when reaching lv3 resulting in a strong mage with 6 MP, 60% defense at forest and good resistance to magical atacks.
+4.- Devling Flyers: good lv2 scouting unit, maybe a bit too low on health, but it does have 9 MP and fly and has an aceptable hybrid range damage but I find no problems if it did had +1 mele damage/ranged per strike to compensate their problems at durability. For this I would recomend:
+a) removing blade weakness, due it has already somehow low health.
+b) 1 MP & 50% frozen def due they really fly... 
+c) decreasin their xp to lv3 because they don't gain something notisably apart of only raw stats improvements. Would sugest from 79 xp to 59 xp (25% less xp)
+5.- Devling Attackers: a really fast scouting unit, but with toughtness problems. If we consider the +1 mele/ranged damage this could be a really worth unit to get lv3. For this is recomendable:
+a) raise their health to 54, let's make them a bit more tought
+b) decreasing maybe their cold and arcane weakness to 10% to make their durability more stable.
+6.- Devling Spikers: a good lv1 unit actually, but let's make them a bit stronger with the next sugestions:
+a) +10% resistances to blade, impact and fire from their original ones, to make them normal fighters but with weaknesses to cold & arcane. 
+7.- Devling Staplers: a good lv2 unit with beast damage at one strike, but no ranged and no lv3. Let's make them as a somehow special lv2 considering they have no lv3:
+a) similar to spikers, more resistances, but this time +20% to blade, impact and fire, +10% to pierce & arcane. All these from their original resistances. 55 hp seemed a good health amount, so desided to left this unchanged.
+8.- Devling Lurker: This actual no lv2 unit isn't viable at all on any kind of long map, this unit needs to be special due not even a lv2 upgarade. Let's sugest something:
+a) +10% to all its physical resistances to make them more durable.
+b) changing their ranged to 3-3 blade (poison) -maybe marskman- to make them little lv1 assasins!
+therian hunter line seems weak, check if it is even recruitable - was only for heroes
+combatmedic much better than amputator, perhaps shouldnt marksman
+add bleeding to amputator, <20:37 *Ravana*> but it does need some stats too, maybe 9-3 instead of 11-2
+should bleeding be 4 instead
+is hell dweller useful? - +1 damage
+make infernai with slightly higher hp lower xp
+consider making brungar summon monsters tentacle
+EoS eltire siren lacks amla
+dark warrior too high xp
+steel repairer +1 dmg
+windsong pathfinders should be 60% flat
+think of eventide alchemist, should heal +8?
+both Clan Leader and Mystic have quite high xp.
+slightly lower water avatar xp
+welkin elder sage It's known that sages at lv1 are among best healers avalible in lv1, but the problem is that Elder Sage is a bit too weak compared to most healers. It's seen that some healers are 7-4 magical cold likely Clan Leader, 9-3 likely white mage, or so, but Elder Sage is only 6-3 magical cold which is practically lv1 damage. Sugestion is to make his damage more significant and probably giving him a small cold res as a bonus (may be)
+consider another strike for rune purist
+removed heal from rune mage and rune master
+cures for primevalist celebrant
+slightly lower ukian seeress xp
+hotshot->blazier fire attack icon missing
+cavernei runic spell icon
+switch leader version
+ukian level 1-2 dogs too high hp
+battlemage and elementalist, disciple xp
+whites art http://units.wesnoth.org/1.12/PantherLord/en_US/PantherLordCampaignEFM.html
+bow lady ranged anim
+dragon prow, longboat
+remove housecarl anim
+remove thane anim
+remove scout anim
+remove storm witch anim
+remove storm child anim
+vector leader immunity should exist only if mod_switch_leader_no_limit isnt yes
+lower yak stats
+wood warrior rats should have better terrain defs
+hive drones need more terrain def
+ifreet should have few hp more
+Sugestion for Meganeire mechs and machinists: 1) making all machines into mechanical in order to decrease the amount of existing races in ageless and with the intention to favour PYR by allowing repairers from other factions to repair these machines. 2) making machinists and technician 'mech repairs' reworked to repairs+10 in order to allow them to repair all mechanical units from other factions to favour them in PYR. That won't afect their funcionality in the faction, but would generalize their propierties to more units in AE. - needs testing
+northern fighter should have more def on snow
+shadowmage more cave def
+AE_WEAPON_SPECIAL_ABSORB events need id, and lower value to 1000
+Error: Era 'Ageless Heroes' faction 'AE_side_arc_southseas' references non-existant unit id 'AE_arc_south_seas_Caster'!
+Error: Era 'Ageless Heroes' faction 'AE_side_arc_southseas' references non-existant unit id 'AE_arc_south_seas_Zephyrist'!
+Error: Era 'Ageless Heroes' faction 'AE_side_arc_southseas' references non-existant unit id 'AE_arc_south_seas_Rover'!
+Warning: No picture units/elementals/djinn.png for unit AE_chs_elementals_Djinn.
+Warning: No picture /units/Brungar/Crystal_Master.png for unit AE_fut_brungar_Crystal_Master.
+Warning: No picture units/nordhris/Farseer.png for unit AE_fut_Nordhris_Farseer.
+Warning: No picture units/emperorguard/Tsuwamono.png for unit AE_mrc_emperors_guard_Tsuwamono.
+Warning: No picture units/holyorder/Listener.png for unit AE_mrc_holy_order_Listener.
+Error: No attack icon 'attacks/sunburst.png' found for 'AE_fut_welkin_Grand_Flyer'.
+Error: No attack icon 'attacks/frost.png' found for 'AE_fut_Nordhris_Apprentice'.
+Error: No attack icon 'attacks/slime-thrown.png' found for 'AE_chs_chaos_empire_Gutwrencher_Imp'.
+Warning: No picture units/Monsters/Crocodile.png for unit AE_fut_brungar_Crocodile.
+Error: No attack icon 'attacks/wose-crush.png' found for 'AE_mrc_equestrians_Crasher'.
+Warning: No picture units/Monsters/Alligator.png for unit AE_fut_brungar_Alligator.
+Error: No attack icon 'attacks/head-butt.png' found for 'AE_imp_Lavinians_River_Horse'.
+Error: No attack icon 'attacks/dive-bomb.png' found for 'AE_imp_Arendians_Falcon_Lord'. - didnt find anything really good for this though
+Error: No attack icon 'attacks/clockwork lance.png' found for 'AE_feu_clockwork_dwarves_Wanderer'.
+Error: No attack icon 'attacks/bane.png' found for 'AE_fut_Nordhris_Tribal_Sage'.
+Error: No attack icon 'attacks/throwing knives.png' found for 'AE_imp_Arendians_Wanderer'.
+Error: No attack icon 'attacks/fire arrow.png' found for 'AE_imp_Arendians_Slayer'.
+Error: No attack icon 'attacks/dive-bomb.png' found for 'AE_imp_Arendians_Falcon'.
+Error: No attack icon 'attacks/head-butt.png' found for 'AE_imp_Lavinians_Hippopotamus'.
+Error: No attack icon 'attacks/fireblast.png' found for 'AE_arc_despair_Banshee'.
+>The only real change is that the Ukian Seals have been updated (both branches now have level 2, and some small amount of animations). - from 1.13
+see why Goblin Hunter hides on Ds
+9.- Hierophant, Dark Prophet & Wizards at anakes
+The first 2 units in the line, are heal+8 units and the other is the lv3 of the non healing option. All 3 are all somehow weak in damage. Hierophant is much weaker than white mage is, dealing -2 ranged damage per strike and having -20% arcane resistance as well that Dark Prophet is weaker than mage of light. Sugestion for those 2 first one is giving them a small boost of damage and to arcane resistance. Sugesting to make these -20% arcane resistance to 0% for Hierophant maybe for Darkprophet giving him an aura which increases alied Arcane resistance by 30% instead of Light of Mage's illuminates. Wizards are also weaker than most lv3 mages by dealing only 10-4, maybe increasing damage or in another case giving them precision instead of more damage could make them a better lv3; also as something optional giving to Wizards 20% to both cold and fire resistance. -- only stats increased
+10.- Botanist at Dalefolk
+I'm not sure if that unit needs a buff, but by viewing his stats 7-3 arcane poison looks somehow poor for AE standards. Maybe he could be rewarded by something special like "anti poison" seen in Archaic southern orcs by allowing Botanist not losing health by poison, but delaying his posterior heals. 
+11.- Eventide Alchemists
+This case refers of a heals+4 unit. At first sight his stats looks somehow boring, but he's a somehow versatile mele fighter with ranged poison that can poison enemies using ranged atacks. Maybe for this one we can add cures in order to make him a way better than most of simplistic lv1 healers with just heals+4. As well giving him a small but considerable fire resistance of +15% due of working with fire commonly and not sure but giving him +1 mele damage per strike at both weapon to his lv2 and lv3. -- only fire resist given
+12.- Wizard at Aragwaithi
+This is the case of a healer with good damage, good healing powers, but a way too low health. 31 hp for a lv2 unit is extremely low, maybe if it had 35 hp as white mages does, would be easier to use. As well that Sorceress has lv2 hp but at being lv3. -- Aragwaithi arent weak, so might need to lower damage if increasing hp.
+13.- Mistral Rime Keeper at Issaelfr
+Another case of a good unit suffering a lot to finally gaining heals+8. Only complaits about this healer is the lot of xp this needs to finally heal+8 which could be problematic for survival scenarios.
+14.- Sober at highlanders
+This is the first case of a unit that doesn't has heal to be listed in the list of healers. But the fact is that this unit has a choice that allows him to heals+8 (yup, extremely curious how a berserker at lv1 can become to a more pacific healer+8 at lv3 if chosen to be this). Its xp are extremely high to reach lv3. Also, at Coldturkey it has inspire which only works for lv0 and lv1, may be this needs to be considered for something better as leadership or just another kind of compesation. -- xp reduced, level 4 leadership given to Coldturkey
+15.- Spirit Jay at Phantom
+It's an extremely curious case of a scouting unit that can heal. It has no lv2, so actually its stats are a bit too weak to be no lv2 unit. Probably changing its heals+4 into heals+6 could make of this unit a much more considerable one to own of if looking at Archaic for a possible advancement for it then add a lv2 option to it. Considering that units with no lv2 at AE should be something really special then I see no problems by making this heals+6.
