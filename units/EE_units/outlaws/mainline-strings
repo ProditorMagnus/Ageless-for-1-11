@@ -1,0 +1,120 @@
+# !/bin/bash
+# helper script for implementin use of mainline-strings.cfg
+
+
+#replace strings (together with their translation sign) with corresponding macros
+sed -i 's/[[:blank:]]_[[:blank:]]\"Immune to drain, poison, and plague\"/{STR_NONLIVING_DESCRIPTION}/' $1
+sed -i 's/[[:blank:]]_[[:blank:]]\"Zero upkeep\"/{STR_ZERO_UPKEEP}/' $1
+sed -i 's/[[:blank:]]_[[:blank:]]\"bow\"/{STR_BOW}/' $1
+sed -i 's/[[:blank:]]_[[:blank:]]\"saber\"/{STR_SABER}/' $1
+sed -i 's/[[:blank:]]_[[:blank:]]\"longsword\"/{STR_LONGSWORD}/' $1
+sed -i 's/[[:blank:]]_[[:blank:]]\"long sword\"/{STR_LONG_SWORD}/' $1
+sed -i 's/[[:blank:]]_[[:blank:]]\"short sword\"/{STR_SHORT_SWORD}/' $1
+sed -i 's/[[:blank:]]_[[:blank:]]\"sword\"/{STR_SWORD}/' $1
+sed -i 's/[[:blank:]]_[[:blank:]]\"dagger\"/{STR_DAGGER}/' $1
+sed -i 's/[[:blank:]]_[[:blank:]]\"knife\"/{STR_KNIFE}/' $1
+sed -i 's/[[:blank:]]_[[:blank:]]\"throwing knives\"/{STR_THROWING_KNIVES}/' $1
+sed -i 's/[[:blank:]]_[[:blank:]]\"axe\"/{STR_AXE}/' $1
+sed -i 's/[[:blank:]]_[[:blank:]]\"battle axe\"/{STR_BATTLE_AXE}/' $1
+sed -i 's/[[:blank:]]_[[:blank:]]\"hammer\"/{STR_HAMMER}/' $1
+sed -i 's/[[:blank:]]_[[:blank:]]\"club\"/{STR_CLUB}/' $1
+sed -i 's/[[:blank:]]_[[:blank:]]\"mace\"/{STR_MACE}/' $1
+sed -i 's/[[:blank:]]_[[:blank:]]\"morning star\"/{STR_MORNING_STAR}/' $1
+sed -i 's/[[:blank:]]_[[:blank:]]\"flail\"/{STR_FLAIL}/' $1
+sed -i 's/[[:blank:]]_[[:blank:]]\"lance\"/{STR_LANCE}/' $1
+sed -i 's/[[:blank:]]_[[:blank:]]\"pike\"/{STR_PIKE}/' $1
+sed -i 's/[[:blank:]]_[[:blank:]]\"halberd\"/{STR_HALBERD}/' $1
+sed -i 's/[[:blank:]]_[[:blank:]]\"torch\"/{STR_TORCH}/' $1
+sed -i 's/[[:blank:]]_[[:blank:]]\"trident\"/{STR_TRIDENT}/' $1
+sed -i 's/[[:blank:]]_[[:blank:]]\"shield bash\"/{STR_SHIELD_BASH}/' $1
+sed -i 's/[[:blank:]]_[[:blank:]]\"berserker frenzy\"/{STR_BERSERK}/' $1
+sed -i 's/[[:blank:]]_[[:blank:]]\"fist\"/{STR_FIST}/' $1
+sed -i 's/[[:blank:]]_[[:blank:]]\"sling\"/{STR_SLING}/' $1
+sed -i 's/[[:blank:]]_[[:blank:]]\"staff\"/{STR_STAFF}/' $1
+sed -i 's/[[:blank:]]_[[:blank:]]\"plague staff\"/{STR_PLAGUE_STAFF}/' $1
+sed -i 's/[[:blank:]]_[[:blank:]]\"entangle\"/{STR_ENTANGLE}/' $1
+sed -i 's/[[:blank:]]_[[:blank:]]\"ensnare\"/{STR_ENSNARE}/' $1
+sed -i 's/[[:blank:]]_[[:blank:]]\"thorns\"/{STR_THORNS}/' $1
+sed -i 's/[[:blank:]]_[[:blank:]]\"faerie fire\"/{STR_FAERIE_FIRE}/' $1
+sed -i 's/[[:blank:]]_[[:blank:]]\"fire breath\"/{STR_FIRE_BREATH}/' $1
+sed -i 's/[[:blank:]]_[[:blank:]]\"fireball\"/{STR_FIREBALL}/' $1
+sed -i 's/[[:blank:]]_[[:blank:]]\"water spray\"/{STR_WATER_SPRAY}/' $1
+sed -i 's/[[:blank:]]_[[:blank:]]\"lightning\"/{STR_LIGHTNING}/' $1
+sed -i 's/[[:blank:]]_[[:blank:]]\"lightbeam\"/{STR_LIGHTBEAM}/' $1
+sed -i 's/[[:blank:]]_[[:blank:]]\"wail\"/{STR_WAIL}/' $1
+sed -i 's/[[:blank:]]_[[:blank:]]\"hatchet\"/{STR_HATCHET}/' $1
+sed -i 's/[[:blank:]]_[[:blank:]]\"bow\"/{STR_BOW}/' $1
+sed -i 's/[[:blank:]]_[[:blank:]]\"longbow\"/{STR_LONGBOW}/' $1
+sed -i 's/[[:blank:]]_[[:blank:]]\"composite bow\"/{STR_COMPOSITE_BOW}/' $1
+sed -i 's/[[:blank:]]_[[:blank:]]\"crossbow\"/{STR_CROSSBOW}/' $1
+sed -i 's/[[:blank:]]_[[:blank:]]\"javelin\"/{STR_JAVELIN}/' $1
+sed -i 's/[[:blank:]]_[[:blank:]]\"spear\"/{STR_SPEAR}/' $1
+sed -i 's/[[:blank:]]_[[:blank:]]\"crush\"/{STR_CRUSH}/' $1
+sed -i 's/[[:blank:]]_[[:blank:]]\"touch\"/{STR_TOUCH}/' $1
+sed -i 's/[[:blank:]]_[[:blank:]]\"faerie touch\"/{STR_FAERIE_TOUCH}/' $1
+sed -i 's/[[:blank:]]_[[:blank:]]\"claws\"/{STR_CLAWS}/' $1
+sed -i 's/[[:blank:]]_[[:blank:]]\"fire claws\"/{STR_FIRE_CLAWS}/' $1
+sed -i 's/[[:blank:]]_[[:blank:]]\"battle claws\"/{STR_BATTLE_CLAWS}/' $1
+sed -i 's/[[:blank:]]_[[:blank:]]\"war blade\"/{STR_WAR_BLADE}/' $1
+sed -i 's/[[:blank:]]_[[:blank:]]\"war talon\"/{STR_WAR_TALON}/' $1
+sed -i 's/[[:blank:]]_[[:blank:]]\"beak\"/{STR_BEAK}/' $1
+sed -i 's/[[:blank:]]_[[:blank:]]\"fangs\"/{STR_FANGS}/' $1
+sed -i 's/[[:blank:]]_[[:blank:]]\"bite\"/{STR_BITE}/' $1
+sed -i 's/[[:blank:]]_[[:blank:]]\"tail\"/{STR_TAIL}/' $1
+sed -i 's/[[:blank:]]_[[:blank:]]\"tentacle\"/{STR_TENTACLE}/' $1
+sed -i 's/[[:blank:]]_[[:blank:]]\"gossamer\"/{STR_GOSSAMER}/' $1
+sed -i 's/[[:blank:]]_[[:blank:]]\"web\"/{STR_WEB}/' $1
+sed -i 's/[[:blank:]]_[[:blank:]]\"net\"/{STR_NET}/' $1
+sed -i 's/[[:blank:]]_[[:blank:]]\"pincers\"/{STR_PINCERS}/' $1
+sed -i 's/[[:blank:]]_[[:blank:]]\"chill wave\"/{STR_CHILL_WAVE}/' $1
+sed -i 's/[[:blank:]]_[[:blank:]]\"chill tempest\"/{STR_CHILL_TEMPEST}/' $1
+sed -i 's/[[:blank:]]_[[:blank:]]\"shadow wave\"/{STR_SHADOW_WAVE}/' $1
+sed -i 's/[[:blank:]]_[[:blank:]]\"baneblade\"/{STR_BANEBLADE}/' $1
+sed -i 's/[[:blank:]]_[[:blank:]]\"curse\"/{STR_CURSE}/' $1
+sed -i 's/[[:blank:]]_[[:blank:]]\"missile\"/{STR_MISSILE}/' $1
+sed -i 's/[[:blank:]]_[[:blank:]]\"thunderstick\"/{STR_THUNDERSTICK}/' $1
+sed -i 's/[[:blank:]]_[[:blank:]]\"dragonstaff\"/{STR_DRAGONSTAFF}/' $1
+sed -i 's/[[:blank:]]_[[:blank:]]\"ram\"/{STR_RAM}/' $1
+sed -i 's/[[:blank:]]_[[:blank:]]\"slam\"/{STR_SLAM}/' $1
+sed -i 's/[[:blank:]]_[[:blank:]]\"mud glob\"/{STR_MUD_GLOB}/' $1
+
+#from campaigns (incomplete list)
+
+# wesnoth-httt
+sed -i 's/[[:blank:]]_[[:blank:]]\"flaming sword\"/{STR_FLAMING_SWORD}/' $1
+sed -i 's/[[:blank:]]_[[:blank:]]\"scepter\"/{STR_SCEPTER}/' $1
+sed -i 's/[[:blank:]]_[[:blank:]]\"sceptre of fire\"/{STR_SCEPTRE_OF_FIRE}/' $1
+sed -i 's/[[:blank:]]_[[:blank:]]\"raging blizzard\"/{STR_RAGING_BLIZZARD}/' $1
+
+# wesnoth-dm
+sed -i 's/[[:blank:]]_[[:blank:]]\"staff of power\"/{STR_STAFF_OF_POWER}/' $1
+sed -i 's/[[:blank:]]_[[:blank:]]\"magic blast\"/{STR_MAGIC_BLAST}/' $1
+
+# wesnoth-dw
+sed -i 's/[[:blank:]]_[[:blank:]]\"storm trident\"/{STR_STORM_TRIDENT}/' $1
+
+# wesnoth-sof
+sed -i 's/[[:blank:]]_[[:blank:]]\"pick\"/{STR_PICK}/' $1
+
+# wesnoth-trow
+sed -i 's/[[:blank:]]_[[:blank:]]\"training sword\"/{STR_TRAINING_SWORD}/' $1
+sed -i 's/[[:blank:]]_[[:blank:]]\"blood kiss\"/{STR_BLOOD_KISS}/' $1
+
+# wesnoth-utbs
+sed -i 's/[[:blank:]]_[[:blank:]]\"bolas\"/{STR_BOLAS}/' $1
+
+# wesnoth-tsg
+sed -i 's/[[:blank:]]_[[:blank:]]\"smash\"/{STR_SMASH}/' $1
+sed -i 's/[[:blank:]]_[[:blank:]]\"gaze\"/{STR_GAZE}/' $1
+# decide for STR_SHIELD situation based if to use the mainline strings - since it's probably rather translated like shild bash
+sed -i 's/[[:blank:]]_[[:blank:]]\"glaive\"/{STR_GLAIVE}/' $1
+
+# wesnoth-l
+sed -i 's/[[:blank:]]_[[:blank:]]\"trample\"/{STR_TRAMPLE}/' $1
+sed -i 's/[[:blank:]]_[[:blank:]]\"astral blade\"/{STR_ASTRAL}/' $1
+sed -i 's/[[:blank:]]_[[:blank:]]\"ice blast\"/{STR_ICE_BLAST}/' $1
+sed -i 's/[[:blank:]]_[[:blank:]]\"shadow bolt\"/{STR_SHADOW_BOLT}/' $1
+sed -i 's/[[:blank:]]_[[:blank:]]\"shadow blast\"/{STR_SHADOW_BLAST}/' $1
+sed -i 's/[[:blank:]]_[[:blank:]]\"holy ankh\"/{STR_HOLY_ANKH}/' $1
+
+
