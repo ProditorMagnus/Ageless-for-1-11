@@ -64,3 +64,5 @@ mechanic aoe damage on miss should match description
 have blade attack for level 3 lamia as well
 Also, could Contestant Lines have normal highlander defenses? also I would take away most of his bonus health (maybe to something like 42 -> 33 but with better terrain defenses? same for all his level ups, Stonethrower hp 58 -> 44, Rocklauncher hp 72 -> 56, But giving them both normal highlander defenses alike.
 bonus part of https://forums.wesnoth.org/viewtopic.php?p=600370#p600370
+increased mother mudcrawler xp 70->150
+new unit Dwarvish Plainsmaster
