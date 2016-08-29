@@ -1,5 +1,7 @@
 # Auto detect text files and perform LF normalization
-* text eol=lf
+* text=auto
+*.cfg text eol=lf
+*.txt text eol=lf
 
 # Custom for Visual Studio
 *.cs     diff=csharp
