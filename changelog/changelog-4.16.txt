@@ -1,12 +1,13 @@
 Version 4.16:
 * Units and Factions
-    * 
+    * Ukian Witch has two variations, accessible through AMLA (as opposed to a level 4 branch)
+    * New unit Dwarvish Plainsmaster
 * Graphics
     * New images from Archaic Era
-    * 
+    * something else that has changed
 * Balance
-    * 
+    * Yokai, Emperors Guard, units with backstab, Floating Sword, Ukian Civilian
 * Bug Fixes
-    * 
+    * Formations reducing resistance values
 * Other
-    * 
+    * maybe something about translations, I dont know about them
