@@ -1,7 +1,6 @@
-*female fledgeling uses the old image again
 *wargs: shadow fixes
 *fenrir uses the sprite from tommy2teeth
-*replaced broken mace.ogg with mace.wav for the fenrir. There are many other units affected by this too.
+*replaced broken mace.ogg with mace.wav
 *simpilied windsongs sunburst animation wml
 *removed old/unused EoM files
 *celestials got an own unit-group-icon, and removed a few pixels from the devlings ones
@@ -66,3 +65,19 @@ Also, could Contestant Lines have normal highlander defenses? also I would take 
 bonus part of https://forums.wesnoth.org/viewtopic.php?p=600370#p600370
 increased mother mudcrawler xp 70->150
 new unit Dwarvish Plainsmaster
+new Devlings
+an own sprite for windsong farstrider, arbiter and reaver
+therian leopard & panthers sprites (or higher cat line in general) + a shifting animation for that panther
+therian falcon lvl3 have as well new sprites
+therian mage line has new sprites
+removed Succubus line
+higher water dryads ranged defense frame
+flying angels, specific to terrain
+general EOM update
+fixed movment&attack animation of that one line of monks with barrels
+hit sounds for the other units in the floating sowrd faction
+freed code from deprecated stuff (ellipse, profile, unused images)
+unified defense only weapon special
+new sprites for some celestials
+semi-portraits by tommy2teeth for many factions
+
