@@ -80,4 +80,4 @@ freed code from deprecated stuff (ellipse, profile, unused images)
 unified defense only weapon special
 new sprites for some celestials
 semi-portraits by tommy2teeth for many factions
-
+add avatar image
