@@ -8,7 +8,7 @@ Version 4.16:
     * New sprites for many Era of Myths units
     * More animations for the Devlings
 * Balance
-    * Yokai, Emperors Guard, units with backstab, Floating Swords, Ukian Civilian, Devlings
+    * Yokai, Emperors Guard, units with backstab, Floating Swords, Ukian Civilian
 * Bug Fixes
     * Formation reducing resistance values
     * Missing sounds
