@@ -1,0 +1,9 @@
+Wargs: Wolf Cup -1 cost
+Therian Falcon, Gryfalcon, Peregrine Falcon: -1 movement
+Shifting animation for Therian cats, starting with level 2
+There is one for the lvl 1 too, but disabled. To enable, see units/EoM_units/therians/b1_Cat.cfg
+The same goes for the Therian Falcon.
+Celestial use their own names (from the campaign "A song of Fire")
+Vampires are now undrainable (except the Blood Hulk)
+minor fixes and refactorings
+
