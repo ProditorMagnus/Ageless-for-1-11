@@ -12,3 +12,6 @@ slaver serf pitchfork attack name has _
 amla_commander_armor improving wrong resistance types
 must be pierce https://github.com/ProditorMagnus/Ageless-for-1-11/blob/master/units/ME_units/enchanters/g3-shadowsword.cfg#L26
 add level 3 gryphon to monsters
+Unlist EoC Chaos bowman line to be removed later
+Some new EoC Chaos images
+Change EoC Chaos Cavalier and Cataphract to 8 movement
