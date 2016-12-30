@@ -16,3 +16,4 @@ Unlist EoC Chaos bowman line to be removed later
 Some new EoC Chaos images
 Change EoC Chaos Cavalier and Cataphract to 8 movement
 Remove too fast units from leaders lists
+visual bug: Arendian Shaman's sprite changes to Arendian Warlock's one when attacking

@@ -1,4 +1,3 @@
->Mercs hotfix by IPS
 MERCENARIES ERA HOTFIX
 General notepad with Mercenaries era adjusments (apart of the blight one which was already worked before). Units that weren't already changed will
 just be ignored because of oversight. Isn't diffiuclt noticing that some units are notably stronger than default ones (mostly at lv3) in order to
