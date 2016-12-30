@@ -17,3 +17,12 @@ Some new EoC Chaos images
 Change EoC Chaos Cavalier and Cataphract to 8 movement
 Remove too fast units from leaders lists
 visual bug: Arendian Shaman's sprite changes to Arendian Warlock's one when attacking
+blob and amoeba images are switched
+split era_events to different files
+cold matriarch frozen def to 50
+hive drone line still with -50%
+ram-katobleon higher xp
+make undead dragons keep level 3 weaknesses
+units/BEEM_units/wood_warriors/Swamp_Pathfinder.cfg xp
+lower sidhe warrior spirit damage
+chaos bowman description overeager replace all
