@@ -1,0 +1,11 @@
+Version 4.17:
+* Units and Factions
+    * 
+* Graphics
+    * 
+* Balance
+    * 
+* Bug Fixes
+    * 
+* Other
+    * 
