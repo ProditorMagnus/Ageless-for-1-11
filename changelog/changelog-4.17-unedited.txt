@@ -3,7 +3,7 @@ Therian Falcon, Gryfalcon, Peregrine Falcon: -1 movement
 Shifting animation for Therian cats, starting with level 2
 There is one for the lvl 1 too, but disabled. To enable, see units/EoM_units/therians/b1_Cat.cfg
 The same goes for the Therian Falcon.
-Celestial use their own names (from the campaign "A song of Fire")
+Celestial use their own names (from the campaign 'A song of Fire')
 Vampires are now undrainable (except the Blood Hulk)
 minor fixes and refactorings
 >start Balance note 1 by IPS
@@ -732,7 +732,7 @@ DESCRIPTION: They're named Exectutioners just because if you question them why t
 which is strange coming from a genocidal... inquietant... but there is a question...
 What does want this people exactly?
 And what are their reassons for the genetic manipulation, asesinations and inmoral acts.
----> Spanish: Se les llama verdugos porque sí le pides una explicación a estos hombres del porqué de sus acciones estos solo dirán "por el bien común"
+---> Spanish: Se les llama verdugos porque sí le pides una explicación a estos hombres del porqué de sus acciones estos solo dirán 'por el bien común'
 algo que parece bastante extraño viniendo de un genocida... inquietante... pero cabe preguntarse ¿qué es lo que esta gente quiere exactamente? y 
 cuales son sus razones para justificar tantos experimientos genéticos, mutilizaciones y actos inmorales.
 
@@ -1670,3 +1670,6 @@ Witchhunter
 I'm sure I've done modifications to him previously. Will just trust in my previous work at this line.
 >end Mercs hotfix
 slaver serf pitchfork attack name has _
+amla_commander_armor improving wrong resistance types
+must be pierce https://github.com/ProditorMagnus/Ageless-for-1-11/blob/master/units/ME_units/enchanters/g3-shadowsword.cfg#L26
+add level 3 gryphon to monsters
