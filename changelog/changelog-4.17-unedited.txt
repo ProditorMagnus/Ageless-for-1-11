@@ -26,3 +26,4 @@ make undead dragons keep level 3 weaknesses
 units/BEEM_units/wood_warriors/Swamp_Pathfinder.cfg xp
 lower sidhe warrior spirit damage
 chaos bowman description overeager replace all
+EE undead leader Necrophage->Ghast
