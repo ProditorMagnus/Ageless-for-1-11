@@ -1,6 +1,6 @@
 Version 4.17:
 * Units and Factions
-    * Level 3 Gryphon for Monsters
+    * Level 3 Gryphon for Monsters, Swamp Pathfinder for Wood Warriors
     * Deprecated EoC Chaos bowman line
 * Graphics
     * Some new EoC images
