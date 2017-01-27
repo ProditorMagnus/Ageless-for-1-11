@@ -1,0 +1,2 @@
+Unified EoMa water_ambush and EotF shallow_submerge abilities. (but still having different SPECIAL_NOTES)
+Also improved terain matching.
