@@ -2,6 +2,6 @@ Unified EoMa water ambush and EotF shallow submerge abilities. (but still having
 Unified ME sand stalk and EotF beach home abilities. Now called sand ambush.
 Unified EoMa swamp ambush, ME sloughblend & EFM lurker abilities. Now called swamp prowl.
 Unified EoMa cave ambush and EE cavestalk. Now called cave ambush.
-Also improved terrain matching.
-
+Moved snow cover to general abilities, mountain ambush remains within the EoMa abilities.
+Improved terrain matching for many abilities.
 Unified EoMa hit_and_run abilitie with the one from ME. Me gave 4 MP back, now it's just 3 MP. Because of that, the one ME unit who uses it got +5 HP. But when I looked at it, it looked quite strong. Lvl2 with 55 HP now, 8-3 ranged, ambush, swamp ambush and hitandrun.
