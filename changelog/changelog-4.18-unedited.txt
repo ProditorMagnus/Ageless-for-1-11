@@ -1,4 +1,5 @@
-Unified EoMa water_ambush and EotF shallow_submerge abilities. (but still having different SPECIAL_NOTES)
-Unified ME sand_stalk and EotF beach_home abilities. Now called sand_ambush.
-Unified MoMa swamp_ambush, ME sloughblend & EFM lurker abilities. Now called swamp_ambush.
+Unified EoMa water ambush and EotF shallow submerge abilities. (but still having different SPECIAL_NOTES)
+Unified ME sand stalk and EotF beach home abilities. Now called sand ambush.
+Unified EoMa swamp ambush, ME sloughblend & EFM lurker abilities. Now called swamp ambush.
+Unified EoMa cave ambush and EE cavestalk. Now called cave ambush.
 Also improved terrain matching.
