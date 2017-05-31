@@ -1,6 +1,8 @@
-Always change the AE Snapper in Archaic Era to AE Bone Snapper.
-Always change the AE Shaman in EoMa to AE Clan Leader.
-Always change the AE Stalker in EFM to AE EFM Stalker.
-Change the era version in the caption of the message in the era_events file in the eras folder
+This is release procedure basically.
 
-And change all corresponding units and faction information. Add to this very short list being it should be much longer.
+write changelogs
+add changelogs to unsynced menu
+change all version number locations, including the on in Lua file
+run wmlindent
+create git tag
+upload
