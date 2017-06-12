@@ -1,0 +1,38 @@
+
+Era of Myths factions
+
+ Devlings
+all devlings can get the obedient trait
+Nailer line has -1 upkeep
+Devling leaders get a trait to make up disadvantages
+Overgrowns can't get the fearless trait twice anymore
+Flappers melee 4-2 -> 5-2, ranged 3-3 -> 4-3
+Flyers melee 6-3 -> 8-3, ranged 5-4 -> 6-4, HP 37 -> 39
+Attackers melee 8-3 -> 9-3, ranged 7-4 -> 8-4, cost 39 -> 42
+Cursers cost 14 -> 13
+Blasphemists melee 3-4 -> 4-3
+Offenders melee 3-5 -> 5-3, HP 47 -> 49
+Abusers melee 4-5 -> 7-3, HP 56 -> 63 , cost 62 -> 63
+Chief & Hero cost 38 -> 43
+Chief ranged 7-2 -> 8-2
+Grand Chief ranged 10-2 -> 11-2
+renamed lvl3 Ninja to Little Magican
+Lurker cost 17 -> 14, XP 42 -> 35
+Ninja cost 28 -> 26, HP 35 -> 40, XP 80 -> 70
+Magican cost 40-> 42, HP 45 -> 51
+
+ Vampires
+Vampires resistence weaknesses have been lowered, fire -20% -> -10%, arcane -20% -> -10%
+added a note about Blood Hulks stronger AMLA
+trait obedient (like loyal) decreases damage by 1 at higher levels
+Vampire archer anmiations were apparently broken on linux (camel case naming)
+included changed animation images, which fix some problems, but are still WIP
+
+
+ Wargs
+added a portrait for the water shyde (lvl3)
+added a picture in the help for the fenrir (lvl2)
+
+ Windsong
+removed Farstrider and Herald as lvl3 leaders
+and Pathfinder as lvl 2 leader

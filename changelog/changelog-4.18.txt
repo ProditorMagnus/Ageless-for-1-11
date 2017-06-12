@@ -7,7 +7,7 @@ Version 4.18:
 * Graphics
     * New images for Emperors Guard and Equestrians Paladin
 * Balance
-    * Infernai, Fanatics, Minotaurs, Eltire, Eventide, Free Saurians, Frozen, Calydonians, Dark Legion, Emperors Guard, Steelhive, Wood Warriors, Oracles, Menagerie, Outlaws, EE Chaos, Dark Elves, Monsters, Enchanters, Holy Order, Refugees, Khthon, Phantoms, Yokai
+    * Infernai, Fanatics, Minotaurs, Eltire, Eventide, Free Saurians, Frozen, Calydonians, Dark Legion, Emperors Guard, Steelhive, Wood Warriors, Oracles, Menagerie, Outlaws, EE Chaos, Dark Elves, Monsters, Enchanters, Holy Order, Refugees, Khthon, Phantoms, Yokai, Devlings, Vampires
 * Bug Fixes
     * Swamp Explorer movement
 * Other
