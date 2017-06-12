@@ -45,3 +45,4 @@ Add new EoMa
 EoC imps should not get both weak and strong
 energy draining setup event needs first_time_only=no, in original too, tell i8
 give monsters level 3 spider portait of level 2
+Fix Amoeba Spread range
