@@ -92,7 +92,7 @@ Price: 45g -> 43g
 Prowler
 NEW ATACK: Throwing knives 3-4 blade ranged
 
-{rejected start}
+--rejected start
 Noticing that this faction doesn't has impact atackers at all... apart of the impact mele from Gossiper. So for this function a new unit is needed.
 This is something that is needed because of the Charred Zombies from the blight which are highly resistant to all fire, cold, blade and pierce.
 
@@ -127,7 +127,7 @@ MP: 6
 Price: 48g
 Resistances and defenses: the same that streetrat.
 Specials: Concealment.
-{rejected end}
+--rejected end
 
 Minotaurs
 One of the least popular factions due the very expensive units and the 50% castle def (not high resistances at all). Their low defense mixed with

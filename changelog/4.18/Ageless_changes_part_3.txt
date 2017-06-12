@@ -31,7 +31,7 @@ Price from 26 to 24
 Coment: now requires more XP, acomplishes better its role of tank and costs considerable upkeep for its low damages. Has around the same damage than
         default footpad has, but with lv2 upkeeps. Also needs to be a unit that can bother the enemy to be something considerable.
 --> Would sugest to decrease its resistances improvement from +50% to +35%. 
-Coment 2: Increased its XP to AMLA because of the option "full reheal" which can be abused in RPG maps like colosseum.
+Coment 2: Increased its XP to AMLA because of the option 'full reheal' which can be abused in RPG maps like colosseum.
 Coment 3: With my changes it's harder that this unit becomes extremely resistant to the wanted atack types in a survival game, also the unit ends 
           having the same final resistances but at getting more XP.
           Resistances: This unit starts with +60% base resistance, but can now gain up to 140% from AMLA, before was +200%.
@@ -370,7 +370,7 @@ Metal Shards (pierce) damage from 6-8 to 8-6 -still swarm-
 NEW ATACK: Metal Shards (blade) 4-4 (with no specials)
 NEW ATACK: Metal Shards (piere) 5-3 (with no specials)
 Price from 34 to 36
-Coment: sorry for the 6 weapons lv2 unit ... also I remember that there was one special named "swarm # of strikes" to make swarm have a limit of the
+Coment: sorry for the 6 weapons lv2 unit ... also I remember that there was one special named 'swarm # of strikes' to make swarm have a limit of the
 amount of strikes, meaning that if health is under certain values the amount of strikes is capped instead of being lower than that amount or even zero.
    If you could aplicate this special, there would be no need to even changem basic metal shards and setting them to be at least 3 ranged strikes to
    both atacks and no need to add new atacks (except the swarmless metal fist).
