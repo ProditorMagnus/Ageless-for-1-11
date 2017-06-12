@@ -1,12 +1,12 @@
 
 AE Frozen Human
-In overall we’re doing a lot of standarization to the faction. It has too many weird stats balancing which IPS is not right with.
+In overall weâ€™re doing a lot of standarization to the faction. It has too many weird stats balancing which IPS is not right with.
 All frozen humans might be 50% frozen defense instead of 60% in order to prevent unfair adventage in certain types of maps.
 -> Same terrain defense nefs for Nordhiris faction too, and ME highlanders
 
 
 Frozen Golem 
-We’re reworking this unit in order to make it a more scout role one. Cold attack type is already common in this faction. 
+Weâ€™re reworking this unit in order to make it a more scout role one. Cold attack type is already common in this faction. 
 Apart of standardization some resistances and -10% frozen defense to all units from this faction.
 Health from 26 to 28
 Flying Golem Movement from 7 to 8
@@ -16,7 +16,7 @@ Pierce resistance from 40% to 30%
 
 
 Frost Gunner
-We’re fixing some disadvantage of this unit when advancing from lv1 to lv2 (like worse resistances), but at the cost of some damage. 
+Weâ€™re fixing some disadvantage of this unit when advancing from lv1 to lv2 (like worse resistances), but at the cost of some damage. 
 Just to ensure a better version of the lv1 one (apart of 1 Movement loss)
 Health from 42 to 38
 Movement is still 7 (meaning it loses 1 MP when advancing)
@@ -48,11 +48,11 @@ Blade resistance from 30% to 20%
 Cold resistance from 20% to 40%
 Pierce resistance from 40% to 30%
 All terrain defenses are now -10% their actual value!!
-Coment: with this it’s meant to deal more damage alike taking more damage, more expected from a unit with berserk special.
+Coment: with this itâ€™s meant to deal more damage alike taking more damage, more expected from a unit with berserk special.
 
 
 Ice Golem
-We’re going to fix some irregularities in this line. Making this unit more in the tank role instead in heavy damage dealer, mostly at higher levels.
+Weâ€™re going to fix some irregularities in this line. Making this unit more in the tank role instead in heavy damage dealer, mostly at higher levels.
 Health from 38 to 40
 Cold fist damage from 8-2 to 7-2 (considering itself has an aura that lowers enemy cold res)
 
@@ -71,7 +71,7 @@ Heavy Fist damage from 35-2 to 30-2
 Cold Fist damage from 20-2 to 15-2
 
 Frost Student
-Among most cost efficient mages in the ageless era… few nerfs to lv1
+Among most cost efficient mages in the ageless eraâ€¦ few nerfs to lv1
 Cold Touch damage from 5-2 to 4-2
 Arcane resistance from 10% to 0%
 Blade/Impact resistance from 0% to -10%
@@ -133,7 +133,7 @@ Price from 52 to 48
 
 
 Frost Warrior
-13-3 is almost in the peak of lv2 damage (which Deathblade only beats with 8-5 but has no lv3). Let’s change some stats…
+13-3 is almost in the peak of lv2 damage (which Deathblade only beats with 8-5 but has no lv3). Letâ€™s change some statsâ€¦
 Health from 44 to 42
 Frosty Sword damage from 13-3 to 12-3
 Price from 30 to 32
@@ -152,7 +152,7 @@ Cold Bow damage from 14-3 to 12-3
 Impact resistance from -10% to 0%
 
 Frost Rider
-Kinda slow but actually overpowered considering its cost. Let’s standardize.
+Kinda slow but actually overpowered considering its cost. Letâ€™s standardize.
 Health from 42 to 38
 Head damage from 9-2 to 8-2
 Sword damage from 7-3 to 6-3
@@ -171,8 +171,8 @@ Price from  38 to 36
 
 
 
-BEEM – Calydonians 
-It’s said that Calydonians are a way too weak, blade/pierce/impact/fire in their palette of attack types, but no magicians.
+BEEM â€“ Calydonians 
+Itâ€™s said that Calydonians are a way too weak, blade/pierce/impact/fire in their palette of attack types, but no magicians.
 Faction needs to be more attractive in overall. Faction will be strongered for future versions of Ageless.
 
 Hoplites
@@ -197,7 +197,7 @@ Price from 50 to 54
 
 
 Dioian Swordsman
-Actually extremely underpowered unit … underperforms a lot next to ulfseker. We’re reworking him into the rage(3) family instead of berserk. 
+Actually extremely underpowered unit â€¦ underperforms a lot next to ulfseker. Weâ€™re reworking him into the rage(3) family instead of berserk. 
 With this we can improve his cost efficiency.
 Health from 26 to 28
 Sword is now 5-4 +marksman
@@ -235,7 +235,7 @@ Blade resistance from -10% to 0%
 Impact resistance from -20% to 0%
 
 Dardanian Warrior
-Impact + Fire attacks doesn’t isn’t a very strong synergy. Increasing damage dealt from torch
+Impact + Fire attacks doesnâ€™t isnâ€™t a very strong synergy. Increasing damage dealt from torch
 Torch damage from 5-3 to 6-3
 
 Dardanian Pillager
