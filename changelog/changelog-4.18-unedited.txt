@@ -48,3 +48,5 @@ give monsters level 3 spider portait of level 2
 Fix Amoeba Spread range
 Dardonian Pillager club animation filename
 Overwrite default healing macros so that Magic Absorber stops them
+Use Blue Mage resists for Azure Mage
+Make Yokai and Slavers charm not cumulative for level 2+ units
