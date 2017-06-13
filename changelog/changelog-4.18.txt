@@ -12,3 +12,4 @@ Version 4.18:
     * Swamp Explorer movement
 * Other
     * Runelaying runes work for all sides now
+    * Since this release, wesnoth loads Ageless that has already been preprocessed - testing showed 3x faster loading. However, if something breaks, delete Ageless_Era/ageless_4_18.preprocessed.cfg and normal loading will happen
