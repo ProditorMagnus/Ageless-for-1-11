@@ -4,11 +4,17 @@ ERA MAINTAINER:
 --JW
 
 CO-MAINTAINER:
+--Espreon
 --Velensk
+--Drakefriend
+--bumbadadabum
+--rogo
+--Shiki
 
 SPECIAL THANKS:
 --Jester
 --Velensk
+--Espreon
 --Eternal
 --Mythological
 --jb
@@ -28,6 +34,10 @@ PLAYTESTERS:
 --reloc
 --everyone who has enjoyed playing the era and who has given feedback
 
+TRANSLATORS:
+--Drakefriend
+--Shiki
+
 ABERRATIONS:
 Original ideas:
 --JW
@@ -46,20 +56,30 @@ Art:
 --Eternal
 --Ryorin
 --Neoriceisgood
+--Guest_1219
+--Eleazar
+--Espreon
 --others
 
 DEVLINGS:
 Original idea & art:
 --dreampilot
+Portraits:
+--EVILEST
+Additional Art:
+--ChaosRider
 
 ELEMENTALS:
 Original Idea & art:
---fmunoz (??)
+--Fmunoz
+--Eleazar
+Additional Art:
+--SkyOne (portraits)
 
 THERIANS:
 Original Idea:
 --JW
-Art: 
+Art:
 --Melon
 --Eternal
 --Neoriceisgood
@@ -78,6 +98,8 @@ Art:
 --Melon
 --Jester
 --Eternal
+--EVILEST (portraits)
+--Eleazar
 
 WARGS:
 Original Idea:
@@ -103,3 +125,6 @@ Original idea, art:
 --megane
 New descriptions:
 --henkutsu
+Additional Art:
+--Deciton_Reven
+
