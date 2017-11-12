@@ -1,0 +1,9 @@
+trait legendary affects ranged
+elemental traits differ slightly from mainline ones
+swapped names of diamond and emerald trait
+improvements to the matching of terrain specific effects
+this should allow them to work on more maps, including custom terrain
+fixed charm ability
+aquaner (from rashy era) have now the same mermen units like mainline at their disposal
+fixed a bug und the advancement path for the aquaner (from rashy era)
+modified devling leader traits for curser line: instead of all default traits (=legendary trait) they get beefy & fearless
