@@ -11,3 +11,7 @@ fixed image paths for seaStates
 oracles use now hit sounds
 arbiter lines secondary weapon is now of type blade
 for some BEEM calydonians, the icon or attack name was changed from xiphos to spear, matching the pierce type
+fix RE rpg and heroes
+EoMa bloodlust no longer clears status
+mummy image
+FE phalanx lowered to 20%
