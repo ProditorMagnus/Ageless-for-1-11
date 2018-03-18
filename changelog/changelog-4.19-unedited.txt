@@ -18,3 +18,5 @@ FE phalanx lowered to 20%
 Hide unit2_moused_over_x warning, re #12
 Disable interrupt in rpg, re #13
 Fix FE golem attack type changes when leveling
+attempt to fix EoMa area attacks overflow
+fix dragons breath oos #8

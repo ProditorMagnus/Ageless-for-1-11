@@ -1,1 +1,1 @@
-AE_local_version="4.18"
+AE_local_version="4.19"
